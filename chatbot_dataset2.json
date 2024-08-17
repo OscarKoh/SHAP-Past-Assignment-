@@ -1,0 +1,2491 @@
+{
+  "intents": [
+    {
+      "tag": "account_creation",
+      "data": [
+        {
+          "query": [
+            "How do I sign up for an account?",
+            "What is the process for account registration?",
+            "Can you guide me on creating an account?",
+            "How do I register for an account?",
+            "What are the steps to open an account?",
+            "Where can I find the account registration page?",
+            "I'm new here. How can I get started with creating an account?",
+            "Could you walk me through the steps to set up a new account?",
+            "Is there a specific form I need to fill out to register for an account?",
+            "What information do I need to provide during the account registration process?",
+            "How do I register for an account?",
+            "What steps do I take to sign up for an account?",
+            "Where do I go to create an account?",
+            "Can you assist me in registering for an account?",
+            "How can I initiate the process of setting up an account?",
+            "What's the procedure for account creation?",
+            "I'm interested in creating an account. What should I do?",
+            "Is there a specific button I need to click to start the account registration?",
+            "Could you provide guidance on how to create an account?",
+            "What's the first thing I should do to create an account?",
+            "How can I create a new account?",
+            "What do I need to do to open an account?",
+            "Where is the account registration button located?",
+            "Can you explain how I can register for an account?",
+            "I'm unsure about the account creation process. Can you help?",
+            "What steps do I follow to become a member?",
+            "How do I initiate the process of account setup?",
+            "Is there a specific link I should follow to register?",
+            "What's the procedure for setting up a new account?",
+            "Could you guide me through the account creation steps?"
+
+
+          ],
+          "response": [
+            "To create an account, click on the 'Sign Up' button on the top right corner of our website and follow the instructions to complete the registration process.",
+            "To create an account, simply click on the 'Sign Up' button located on our website's homepage. Follow the instructions provided to complete the registration process, which typically involves filling out a form with your basic information such as name, email address, and creating a password.",
+            "To register for an account, click on the 'Sign Up' button located at the top right corner of our website.",
+            "To start the process of creating an account, simply click on the 'Sign Up' button found on our website's homepage.",
+            "To create an account, click on the 'Sign Up' button on our website's homepage or at the top right corner, then follow the instructions.",
+            "Account registration involves filling out a form with your basic details such as name, email, and password. Simply click on the 'Sign Up' button to get started.",
+            "Locate the 'Sign Up' button on our website's homepage or at the top right corner to initiate the account setup process.",
+            "Follow the prompts provided after clicking on the 'Sign Up' button to complete your registration smoothly.",
+            "If you need assistance, feel free to reach out. We're here to guide you through the account creation steps whenever you're ready."
+          ]
+        }
+      ]
+        
+    },
+    {
+      "tag": "payment_methods",
+
+      "data": [
+        {
+          "query": [
+            "What payment methods do you accept?",
+            "Can I pay with cash on delivery?",
+            "Are my payment details secure?",
+            "How can I pay for my order?",
+            "What are the available payment options?",
+            "Do you accept payment through electronic wallets?",
+            "Are there any alternative payment options available?",
+            "Can I use international credit cards for payment?",
+            "Are there any additional fees associated with certain payment methods?",
+            "How do I know if my payment went through successfully?",
+            "Which payment options are available?",
+            "Is it possible to settle payments upon delivery?",
+            "How secure are my payment credentials?",
+            "What's the process for making payments?",
+            "Can you detail the available payment avenues?",
+            "Are there alternative means of payment?",
+            "How will I be notified of a successful payment?",
+            "Do you allow payments via other methods?",
+            "Can I opt for paying cash upon delivery?",
+            "How do you ensure the safety of my payment data?",
+            "What are my choices for payment?",
+            "Are there any alternative payment methods available?",
+            "Will I be notified once my payment is processed successfully?",
+            "Which payment modes do you accept?",
+            "Can I use international credit cards for transactions?",
+            "What assurances do you provide regarding payment security?",
+            "How can I be certain my payment went through?",
+            "What payment options do you support?",
+            "Do you accept payment via digital wallets?",
+            "How can I pay for my purchases?"
+
+          ],
+          "response": [
+            "We accept major credit cards, debit cards, and PayPal as payment methods for online orders.",
+            "Unfortunately, we do not offer cash on delivery as a payment option at the moment. However, you can choose from our other available payment methods.",
+            "Yes, we use industry-standard encryption technology to protect your payment information and ensure a secure transaction.",
+            "We accept major credit cards, debit cards, and PayPal as payment methods for online orders.",
+            "We offer various payment methods, including electronic wallets like Apple Pay, Google Pay, and Samsung Pay, along with major credit cards, debit cards, and PayPal. International credit cards are also accepted.",
+            "We provide alternative payment options such as bank transfers and direct deposits, in addition to major credit cards, debit cards, and PayPal. There are no additional fees associated with any payment method.",
+            "Upon successful payment, you'll receive an email confirmation and order summary. If you need assistance, our customer support team is available to help ensure a seamless payment experience.",
+            "We accept major credit cards, debit cards, and PayPal for online orders.",
+            "Cash on delivery is not available; please choose from our other payment methods.",
+            "Yes, we ensure secure transactions with industry-standard encryption.",
+            "You can pay using major credit cards, debit cards, or PayPal.",
+            "We offer electronic wallets like Apple Pay, Google Pay, Samsung Pay, alongside major credit cards, debit cards, and PayPal, including international credit cards.",
+            "We provide alternative payment options such as bank transfers and direct deposits without additional fees.",
+            "Upon successful payment, you'll receive an email confirmation and order summary. Our customer support is available for assistance."
+
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "order_tracking",
+      "data": [
+        {
+          "query": [
+            "How can I track my order?",
+            "Where can I find my order tracking information?",
+            "I want to know the status of my order. How do I check it?",
+            "Is there a way to check the delivery status of my order?",
+            "What is the process for checking the status of my order?",
+            "How do I track my recent order?",
+            "Where do I go to find updates on my order delivery?",
+            "I need to track my package. What's the procedure for that?",
+            "Is there a method to check when my order will arrive?",
+            "Can I get information on the whereabouts of my order?",
+            "What's the easiest way to monitor my package's journey?",
+            "Where can I access real-time updates on my order?",
+            "How can I stay informed about the delivery status of my recent purchase?",
+            "Is there a way to receive notifications about my order's progress?",
+            "How do I keep track of my package's delivery?",
+            "Can I check the status of my order from my mobile device?",
+            "How can I track my order on the go?",
+            "Is there a mobile-friendly option to monitor my order?",
+            "What's the process for tracking my order via mobile app?",
+            "Can I receive updates about my order through a mobile application?",
+            "What steps do I take to get information about my order's shipment?",
+            "How do I find out where my order is currently?",
+            "Where can I get updates on my order's delivery progress?",
+            "Is there a way to see the transit status of my order?",
+            "What's the procedure for obtaining details about my order's shipping status?",
+            "How can I ensure my order is on its way?",
+            "Where can I verify that my order has been dispatched?",
+            "Is there a method to confirm my order is in transit?",
+            "What's the process for checking if my order has been shipped?",
+            "Can I get confirmation that my order has left the warehouse?"
+
+          ],
+          "response": [
+            "You can track your order by logging into your account and navigating to the 'Order History' section. There, you will find the tracking information for your shipment.",
+            "To track your recent order, simply log into your account and head to the 'Order History' section. You'll find all the tracking details there.",
+            "For the easiest way to monitor your package, log in to your account and visit the 'Order History' section. There, you'll find real-time updates and tracking information.",
+            "Yes, you can conveniently track your order from your mobile device. Just access your account through our mobile app and navigate to the 'Order History' section for tracking updates.",
+            "To get information about your order's shipment, head to your account and check the 'Order History' section. You'll find all the updates regarding your delivery progress there.",
+            "To ensure your order is on its way, log into your account and review the 'Order History' section. There, you'll find confirmation that your order has been dispatched along with tracking information."
+          ]
+        }
+      ]
+        
+    },
+    {
+      "tag": "return_policy",
+      "data": [
+        {
+          "query": [
+            "What is your return policy?",
+            "Can I return items if I'm not satisfied?",
+            "Do you offer refunds?",
+            "How do I initiate a return?",
+            "What items are eligible for return?",
+            "What are your policies regarding returns?",
+            "If I'm not satisfied with my purchase, can I return it?",
+            "What's your procedure for returning items?",
+            "Are refunds available for returned items?",
+            "How can I start the return process?",
+            "What conditions must returned items meet?",
+            "Can I return products if they don't meet my expectations?",
+            "What's your policy on returning items?",
+            "Are there any restrictions on returning items?",
+            "How long do I have to return items?",
+            "What's the window for returning items?",
+            "Do you accept returns after a certain period?",
+            "What's your policy for returning unused items?",
+            "Can I return items if they're not what I expected?",
+            "What's the procedure for returning unwanted items?",
+            "How do I return items if I've changed my mind?",
+            "What steps do I take to return items I no longer want?",
+            "Are there any exceptions to your return policy?",
+            "What's your policy regarding returning products?",
+            "Can I return items if they're damaged?",
+            "Is there a timeframe for returning items?",
+            "What's the process for returning items that didn't meet expectations?",
+            "How can I return items if I'm not satisfied with my purchase?",
+            "What's your procedure for returning items if they're defective?",
+            "Do you allow returns for items that were purchased by mistake?"
+          ],
+          "response": [
+            "Our return policy allows you to return products within 30 days of purchase for a full refund, provided they are in their original condition and packaging. Please refer to our Returns page for detailed instructions.",
+            "To return items, ensure they're in original condition and packaging, then follow the instructions on our Returns page within 30 days of purchase for a full refund.",
+            "Items can be returned within 30 days, subject to being in their original condition. Our Returns page outlines detailed instructions for initiating returns.",
+            "Yes, we accept returns within 30 days of purchase if items are in their original condition. Check out our Returns page for instructions on initiating returns.",
+            "Our return window is 30 days from the date of purchase. Items must be returned in their original condition for a full refund. See our Returns page for more details.",
+            "Our return policy allows for full refunds within 30 days, provided items are in their original condition. Please review our Returns page for specific instructions.",
+            "You have 30 days from the date of purchase to return items for a full refund, provided they're in their original condition. Refer to our Returns page for instructions.",
+            "To return items that didn't meet expectations, ensure they're in their original condition and follow the instructions on our Returns page within 30 days for a full refund.",
+            "Yes, you can return items purchased by mistake within 30 days for a full refund, as long as they're in their original condition. Consult our Returns page for step-by-step instructions."
+
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "order_cancellation",
+      "data": [
+        {
+          "query": [
+            "Can I cancel my order?",
+            "Is it possible to cancel my order?",
+            "How do I cancel an order?",
+            "What is the procedure for canceling my order?",
+            "Can I still cancel my order?",
+            "Is there a way to cancel my order?",
+            "What if I want to cancel my order?",
+            "Can I change my mind and cancel my order?",
+            "What steps should I take to cancel my order?",
+            "Is it too late to cancel my order?",
+            "How late can I cancel my order?",
+            "What's the process for canceling my order?",
+            "Can I still change my mind about my order?",
+            "What if I decide I don't want my order anymore?",
+            "Am I able to cancel my order if I change my plans?",
+            "Is there a chance to cancel my order after placing it?",
+            "What happens if I need to cancel my order?",
+            "Can I reverse my order if I no longer need it?",
+            "What should I do if I want to cancel my order?",
+            "Is it too early to cancel my order?",
+            "Can I cancel my order at this point?",
+            "Is there still a chance to cancel my order?",
+            "What's the policy for canceling orders?",
+            "How do I go about canceling my order?",
+            "Can I cancel my order if I've changed my mind?",
+            "What's the procedure if I want to cancel my order?",
+            "Is it possible to cancel my order after placing it?",
+            "What should I do if I need to cancel my order?",
+            "Can I cancel my order if I've reconsidered?",
+            "What's the process for canceling an order?"
+
+
+          ],
+          "response": [
+            "You can cancel your order if it has not been shipped yet. Please contact our customer support team with your order details, and we will assist you with the cancellation process.",
+            "You can cancel your order if it hasn't left our facility yet. Contact our support team with your order number, and we'll help you with the cancellation process.",
+            "You can cancel your order before it's shipped out. Reach out to our support team with your order details, and we'll help you with the cancellation process.",
+            "If your order hasn't been dispatched, you can still cancel it. Contact our customer service team with your order details, and we'll assist you.",
+            "You can cancel your order before it's shipped. Contact our support team with your order number, and we'll guide you through the cancellation process.",
+            "Yes, you can cancel your order if it hasn't been sent out. Contact our support team as soon as possible with your order information, and we'll cancel it for you.",
+            "Yes, you can cancel your order if it's still in our processing stage. Contact our customer service team with your order details, and we'll cancel it for you."
+
+          ]
+        }
+      ]
+        
+    },{
+      "tag": "shipping_time",
+      "data": [
+        {
+          "query": [
+            "How long does shipping take?",
+            "What is the estimated shipping time?",
+            "When can I expect my order to arrive?",
+            "How much time does delivery take?",
+            "What is the typical shipping duration?",
+            "What's the expected delivery timeframe?",
+            "How soon will my order be delivered?",
+            "When will my package arrive?",
+            "What's the typical delivery duration?",
+            "How long until my order is delivered?",
+            "What's the estimated shipping timeframe?",
+            "What's the expected shipping duration?",
+            "How much time should I expect for delivery?",
+            "When should I anticipate my order's arrival?",
+            "What's the shipping timeframe like?",
+            "How long does it usually take for delivery?",
+            "What's the approximate delivery time?",
+            "When can I expect my shipment?",
+            "How soon can I receive my package?",
+            "What's the typical turnaround for delivery?",
+            "How long will it take for my order to be shipped?",
+            "When will my order ship out?",
+            "What's the shipping duration like?",
+            "What's the turnaround time for shipping?",
+            "How many days until my order arrives?",
+            "When will my package be delivered?",
+            "What's the turnaround time for delivery?",
+            "How long does it usually take for packages to arrive?",
+            "What's the estimated delivery time frame?",
+            "How soon can I anticipate receiving my order?"
+
+          ],
+          "response": [
+            "Shipping times vary depending on the destination and the shipping method chosen. Standard shipping usually takes 3-5 business days, while express shipping can take 1-2 business days.",
+            "The typical delivery time frame varies depending on your shipping method and location. Standard shipping usually ranges from 3 to 5 business days, while express shipping can arrive in 1 to 2 business days.",
+            "The time until your order arrives depends on your chosen shipping method and destination. Typically, standard shipping arrives within 3 to 5 business days, while express shipping takes 1 to 2 business days."
+
+          ]
+        }
+      ]
+        
+    },
+    {
+      "tag": "international_shipping",
+      "data": [
+        {
+          "query": [
+            "Do you offer international shipping?",
+            "Can I get international delivery?",
+            "Is international shipping available?",
+            "Do you ship internationally?",
+            "Can I order from outside the country?",
+            "Do you provide shipping services to international destinations?",
+            "Can I have my order delivered internationally?",
+            "Are international delivery options available for purchases?",
+            "Does your shipping service extend to international locations?",
+            "Are international shipping options accessible?",
+            "Can I place orders from overseas?",
+            "Do you cater to international customers?",
+            "Is it possible to receive deliveries outside the country?",
+            "Are there shipping options available for international orders?",
+            "Can I expect my order to be shipped internationally?",
+            "Do you support international shipping?",
+            "Can I request international delivery for my purchases?",
+            "Are international shipping services offered?",
+            "Is it possible to ship products abroad?",
+            "Do you provide shipping options for customers overseas?",
+            "Can I receive shipments outside the country?",
+            "Are international delivery services accessible?",
+            "Can I place orders for international delivery?",
+            "Do you ship products internationally?",
+            "Is international shipping available for all products?",
+            "Can customers from other countries receive deliveries?",
+            "Are there specific shipping methods for international orders?",
+            "Do you offer shipping solutions for customers overseas?",
+            "Can I expect timely delivery for international orders?",
+            "Is international shipping available for online purchases?"
+
+          ],
+          "response": [
+            "Yes, we offer international shipping to select countries. The availability and shipping costs will be calculated during the checkout process based on your location.",
+            "Certainly, we offer shipping services for products to be delivered abroad. You can specify your international shipping preferences and view associated costs at checkout.",
+            "Yes, we offer accessible international delivery services for customers worldwide. You can review shipping options and costs based on your location during checkout.",
+            "Indeed, we do ship products internationally to various destinations. Shipping rates and delivery options will be presented during the checkout process.",
+            "Yes, customers from other countries can receive deliveries through our international shipping services. Shipping details and costs will be determined during checkout.",
+            "Yes, we offer specific shipping methods tailored for international orders. You can explore these options and view associated costs at checkout.",
+            "Yes, we provide shipping solutions for customers located overseas. You can specify your international shipping preferences during the checkout process.",
+            "Yes, we strive to ensure timely delivery for international orders. Shipping details and delivery estimates will be provided based on your location at checkout."
+
+          ]
+        }
+      ]
+        
+    },
+    {
+      "tag": "lost_or_damaged_package",
+      "data": [
+        {
+          "query": [
+            "What should I do if my package is lost or damaged?",
+            "How do I report a lost or damaged package?",
+            "What steps should I take for a lost or damaged package?",
+            "What is the process for dealing with a lost or damaged package?",
+            "How do you handle lost or damaged packages?",
+            "My package seems to be missing or damaged, what's the next step?",
+            "What recourse do I have if my package doesn't arrive or arrives damaged?",
+            "Who should I contact if my package is lost or arrives in poor condition?",
+            "What steps are involved in addressing a lost or damaged package?",
+            "I'm experiencing an issue with a lost or damaged package. How can I seek assistance?",
+            "What's the protocol for handling a lost or damaged shipment?",
+            "Who do I need to notify if my package goes missing or arrives damaged?",
+            "What actions should I take if my package doesn't arrive as expected or arrives in poor condition?",
+            "What recourse do I have if my package is lost or damaged in transit?",
+            "I've encountered an issue with a lost or damaged package. How can I proceed?",
+            "What measures are in place for addressing lost or damaged packages?",
+            "If my package goes missing or arrives damaged, what steps should I take?",
+            "Who can assist me if my package is lost or arrives in poor condition?",
+            "What's the procedure for reporting a lost or damaged package?",
+            "In the event of a lost or damaged package, how can I seek assistance?",
+            "What's the best course of action if my package doesn't arrive or arrives damaged?",
+            "How should I proceed if my package is lost or damaged during transit?",
+            "What should I do if my package doesn't arrive on time or arrives damaged?",
+            "Who should I contact if there's an issue with my package delivery?",
+            "What recourse do I have if my package goes astray or sustains damage?",
+            "Who should I notify in the event of a lost or compromised package?",
+            "How can I seek assistance if my package is misplaced or arrives in a compromised state?",
+            "What steps should I take if my package fails to arrive or arrives in an unsatisfactory condition?",
+            "In the unfortunate event of a lost or damaged package, how can I proceed?",
+            "What should I do if my package goes missing or arrives in poor condition?"
+
+
+
+
+          ],
+          "response": [
+            "If your package is lost or damaged during transit, please contact our customer support team immediately. We will initiate an investigation and take the necessary steps to resolve the issue.",
+            "If you encounter any issues with a missing or damaged package, please notify our customer support team promptly. We'll work closely with you to resolve the matter as efficiently as possible."
+
+
+          ]
+        }
+      ]
+        
+    },
+    {
+      "tag": "change_shipping_address",
+      "data": [
+        {
+          "query": [
+            "Can I change my shipping address after placing an order?",
+            "Is it possible to update my shipping address once I've placed my order?",
+            "How do I modify my shipping address after completing the order?",
+            "Can I edit my shipping address post-order placement?",
+            "What should I do if I want to change my shipping address?",
+            "Is there a way to update my shipping details after I've placed the order?",
+            "What steps can I take if I need to modify my shipping information?",
+            "Can I make alterations to my shipping details after completing my purchase?",
+            "How can I edit my shipping details after I've placed the order?",
+            "What should I do if I want to modify my shipping details?",
+            "Can I change my shipping address details once my order is confirmed?",
+            "What options are available if I need to update my shipping details post-purchase?",
+            "How do I go about updating my shipping details if I've already placed an order?",
+            "Can I amend my shipping details after completing my order?",
+            "What steps should I take if I need to change the shipping destination for my order?",
+            "Is there a way to update my shipping details if my order hasn't been shipped yet?",
+            "Can I modify the shipping details for my order after checkout?",
+            "How can I change the shipping details on my order if it hasn't been shipped yet?",
+            "What is the process for updating my shipping details if my order is still being processed?",
+            "Is there a way to change my shipping details before my order is shipped?",
+            "What should I do if I entered the wrong shipping details?",
+            "Can I rectify an error in my shipping details?",
+            "Is it possible to update my shipping details if I made a mistake?",
+            "What recourse do I have if I need to correct my shipping details?",
+            "How do I go about fixing an error in my shipping details?",
+            "Can I update my shipping details if I provided incorrect information?",
+            "What options are available to me if I need to change the shipping details on my order?",
+            "How can I make changes to my shipping details after placing the order?",
+            "Is it possible to correct the shipping details once I've completed the purchase?",
+            "Can I adjust the shipping details if I've already placed an order?"
+
+          ],
+          "response": [
+            "If you need to change your shipping address, please contact our customer support team as soon as possible. We will do our best to update the address if the order has not been shipped yet.",
+            "Should you need to make any alterations to your shipping details post-purchase, please get in touch with our support team at your earliest convenience. We'll strive to accommodate your request if the order hasn't been sent out yet.",
+            "If your order hasn't been shipped yet and you need to update your shipping details, please contact our customer support team as soon as possible. We'll assist you in updating the details promptly.",
+            "If your order is still being processed and you need to update your shipping details, please contact our customer support team without delay. We'll make every effort to accommodate your request promptly."
+
+          ]
+        }
+      ]
+        
+    },
+    {
+      "tag": "contact_customer_support",
+      "data": [
+        {
+          "query": [
+            "How can I contact customer support?",
+            "What are the ways to reach customer support?",
+            "Is there a way to get in touch with customer support?",
+            "How do I reach out to customer support?",
+            "What are the contact options for customer support?",
+            "How do I get in touch with customer service?",
+            "What's the best way to contact customer support?",
+            "Can I speak to someone from customer service?",
+            "How do I connect with the customer service team?",
+            "What's the procedure for reaching customer support?",
+            "Is there a helpline number for customer support?",
+            "What are the contact details for customer service?",
+            "Can I email customer support for assistance?",
+            "What's the customer support email address?",
+            "How can I access customer support assistance?",
+            "Are there specific hours for contacting customer service?",
+            "When is customer support available?",
+            "What are the contact hours for customer service?",
+            "Can I contact customer support outside of business hours?",
+            "How can I get help from customer service?",
+            "Are there alternative methods to reach customer support?",
+            "What are the available channels to contact customer service?",
+            "Can I chat with someone from customer support online?",
+            "Is there a live chat option for customer support?",
+            "Are there FAQs available before contacting customer support?",
+            "How responsive is customer support?",
+            "Can I expect a timely response from customer service?",
+            "Is there a customer support portal I can access?",
+            "What should I do if I need assistance from customer support urgently?",
+            "How long does it usually take for customer support to respond?"
+
+          ],
+          "response": [
+            "You can contact our customer support team by phone at [phone number] or by email at [email address]. Our team is available [working hours] to assist you with any inquiries or issues you may have.",
+            "For assistance, please reach out to our customer support team via phone or email. We're here to help during our working hours.",
+            "To get in touch with customer support, please contact us via phone or email during our working hours. We're dedicated to helping you with any issues you may encounter.",
+            "For alternative methods to reach customer support, you can try our live chat feature on our website or send us an email. We're here to help you during our working hours.",
+            "Before contacting customer support, you may find answers to your questions in our FAQs section on our website. If you still need assistance, please contact us by phone or email.",
+            "To access our customer support portal, please visit [website link]. You can find helpful resources and contact information to assist you with your inquiries."
+
+          ]
+        }
+      ]
+        
+    },
+    {
+      "tag": "gift_wrapping",
+      "data": [
+        {
+          "query": [
+            "Do you offer gift wrapping services?",
+            "Can I have my order gift-wrapped?",
+            "Is it possible to get gift wrapping for my purchase?",
+            "How do I request gift wrapping for my order?",
+            "What are the options for gift wrapping?",
+            "Do you provide gift wrapping options?",
+            "Are there any gift wrapping services available?",
+            "Can I request my items to be gift wrapped?",
+            "How can I add gift wrapping to my purchase?",
+            "Is there a way to include gift wrapping with my order?",
+            "Do you offer the option to have items gift wrapped?",
+            "Can I pay extra for gift wrapping?",
+            "Is gift wrapping an available service for orders?",
+            "How do I go about requesting gift wrapping?",
+            "Are there options for gift wrapping during checkout?",
+            "Do you offer gift wrapping as an add-on service?",
+            "Can I select gift wrapping for my items?",
+            "What's the procedure for requesting gift wrapping?",
+            "Are there fees associated with gift wrapping services?",
+            "How can I ensure my order is gift wrapped?",
+            "Is there an option to choose gift wrapping?",
+            "Can I add a note to accompany the gift wrapping?",
+            "Are gift wrapping services available for all products?",
+            "Is gift wrapping available for online purchases?",
+            "Can I customize the gift wrapping?",
+            "Is there a separate charge for gift wrapping?",
+            "What's the process for selecting gift wrapping?",
+            "Are there specific occasions for which gift wrapping is available?",
+            "Can I see examples of your gift wrapping options?",
+            "Is gift wrapping available for international orders?"
+
+
+          ],
+          "response": [
+            "Yes, we offer gift wrapping services for an additional fee. During the checkout process, you can select the option to add gift wrapping to your order.",
+            "Yes, we do offer gift wrapping services for an additional fee. You can choose this option during the checkout process.",
+            "Certainly! During checkout, you'll have the option to add gift wrapping to your purchase for a nominal fee.",
+            "Yes, you can pay extra for gift wrapping services during checkout to add a personalized touch to your order.",
+            "To request gift wrapping, simply select the gift wrapping option available during the checkout process.",
+            "During checkout, you'll find options for gift wrapping that you can select to enhance your purchase."
+
+          ]
+        }
+      ]
+        
+    },
+    {
+      "tag": "price_matching_policy",
+      "data": [
+        {
+          "query": [
+            "What is your price matching policy?",
+            "Do you offer price matching?",
+            "Can you match prices from other retailers?",
+            "Is there a policy for matching prices?",
+            "What is your policy on price matching?",
+            "Could you provide details about your price matching policy?",
+            "I'm interested in understanding your approach to price matching. Can you explain?",
+            "Is there a procedure in place for matching prices with competitors?",
+            "Could you clarify if you have a policy regarding price matching?",
+            "Can you provide information on how your price matching works?",
+            "Are you able to adjust prices to match those of other retailers?",
+            "Do you have a system for aligning your prices with competitors'?",
+            "How does your price matching policy operate?",
+            "Could you elaborate on the terms of your price matching policy?",
+            "Can you tell me more about your policies for matching prices?",
+            "Is it possible to receive price matches for products?",
+            "Do you facilitate price matching for customer purchases?",
+            "Can I expect price matching services for my orders?",
+            "How do you handle price matching requests?",
+            "Can you accommodate requests for price matching?",
+            "Do you provide opportunities for price matching with other vendors?",
+            "Are customers allowed to request price matching for purchases?",
+            "Is there an option for matching prices with competitors' offerings?",
+            "How do you manage requests for price matching?",
+            "Do you allow customers to seek price matches with other retailers?",
+            "Could you outline your policy for matching prices with competitors?",
+            "Are there provisions in place for customers seeking price matching?",
+            "Can customers avail of price matching for their purchases?",
+            "What procedures do you have for handling requests for price matching?",
+            "Are customers permitted to seek price matches for items?"
+
+          ],
+          "response": [
+            "We have a price matching policy where we will match the price of an identical product found on a competitor's website. Please contact our customer support team with the details of the product and the competitor's offer.",
+            "Our approach to price matching involves matching the prices of identical products found on competitors' websites. Please reach out to our customer support team for further information.",
+            "Yes, we have a procedure for matching prices with competitors, where we match the price of identical products found on their websites. Please contact our customer support team for assistance.",
+            "We align our prices with competitors' through our price matching system. Feel free to reach out to our customer support team for more information on how it works.",
+            "We facilitate price matching for customer purchases as part of our service. Feel free to reach out to our customer support team for assistance with your request.",
+            "Certainly, we do provide price matching services for orders to ensure customer satisfaction. Please contact our customer support team for further assistance.",
+            "Yes, we provide opportunities for price matching with other vendors to ensure customer satisfaction. Please contact our customer support team for assistance with your request.",
+            "Customers can avail of price matching for their purchases as part of our commitment to providing the best value. For more information, please contact our customer support team."
+
+          ]
+        }
+      ]
+        
+    },
+    {
+      "tag": "order_by_phone",
+      "data": [
+        {
+          "query": [
+            "Can I order by phone?",
+            "Is it possible to place orders by phone?",
+            "Do you take orders via phone?",
+            "How can I order if I don't want to use the website?",
+            "Can orders be placed over the phone?",
+            "Is it feasible to make a purchase via telephone?",
+            "Are phone orders an option for placing an order?",
+            "Can I phone in my order instead of using the website?",
+            "How do I place an order if I prefer not to use the website?",
+            "Are orders accepted via phone?",
+            "Do you have the option to order by telephone?",
+            "Is phone ordering available as an alternative to using the website?",
+            "Can I call to make a purchase instead of using the online platform?",
+            "How can I place an order without utilizing the website?",
+            "Is there an option to order over the phone?",
+            "Can purchases be made by phone?",
+            "Do you allow ordering via telephone?",
+            "Is it possible to order using a phone call?",
+            "Can I phone in my order instead of using the website?",
+            "Are phone orders accepted as a method of purchase?",
+            "Do you offer the option to order by telephone?",
+            "Is phone ordering available as an alternative to using the website?",
+            "Can I call to make a purchase instead of using the online platform?",
+            "How can I place an order without utilizing the website?",
+            "Is there an option to order over the phone?",
+            "Can purchases be made by phone?",
+            "Do you allow ordering via telephone?",
+            "Is it possible to order using a phone call?",
+            "Can I phone in my order instead of using the website?",
+            "Are phone orders accepted as a method of purchase?"
+
+
+          ],
+          "response": [
+            "Unfortunately, we do not accept orders over the phone. Please place your order through our website for a smooth and secure transaction.",
+            "Unfortunately, we do not facilitate purchases over the phone. Please proceed with your order through our website for a seamless transaction."
+
+          ]
+        }
+      ]
+        
+    },
+    {
+      "tag": "security_of_details",
+      "data": [
+        {
+          "query": [
+            "Are my personal and payment details secure?",
+            "How secure are my personal and payment details?",
+            "Can I trust the security of my personal and payment details?",
+            "What measures are in place to protect my personal and payment details?",
+            "Is it safe to provide my personal and payment details?",
+            "Is there assurance that my personal and payment information is kept safe?",
+            "How reliable is the security of my personal and payment data?",
+            "Can I rely on the protection of my personal and payment details?",
+            "What guarantees are in place to safeguard my personal and payment information?",
+            "Is it ensured that my personal and payment details are secure?",
+            "Can I trust that my personal and payment details are protected?",
+            "How confident can I be in the security of my personal and payment details?",
+            "Are there adequate measures in place to ensure the security of my personal and payment data?",
+            "Is there a high level of security for my personal and payment details?",
+            "Can I be confident in the security measures for my personal and payment information?",
+            "Are there assurances regarding the security of my personal and payment details?",
+            "How secure is the protection of my personal and payment data?",
+            "Can I rely on the security measures in place for my personal and payment details?",
+            "What level of security is provided for my personal and payment details?",
+            "Is there confidence in the security protocols for my personal and payment information?",
+            "Are there robust security measures implemented to protect my personal and payment details?",
+            "Can I trust that my personal and payment details are safeguarded?",
+            "Is it guaranteed that my personal and payment details are kept secure?",
+            "Can I have confidence in the security measures for my personal and payment data?",
+            "How secure are the measures implemented to protect my personal and payment details?",
+            "Are there assurances regarding the security measures for my personal and payment information?",
+            "Is there a guarantee that my personal and payment information will remain secure?",
+            "How assured can I be of the security of my personal and payment details?",
+            "Can I have peace of mind regarding the security of my personal and payment details?",
+            "Are there strong security measures in place to protect my personal and payment information?",
+            "Can I trust that my personal and payment details are handled securely?",
+            "How confident can I be in the security protocols for my personal and payment details?",
+            "Is there certainty in the security measures implemented for my personal and payment details?"
+
+          ],
+          "response": [
+            "Yes, we take the security of your personal and payment details seriously. We use industry-standard encryption and follow strict security protocols to ensure your information is protected.",
+            "Rest assured, we provide assurances regarding the security measures for your personal and payment information. Our systems utilize industry-standard encryption and strict security measures to keep your information safe."
+
+          ]
+        }
+      ]
+        
+    },
+    {
+      "tag": "price_adjustment_policy",
+      "data": [
+        {
+          "query": [
+            "What is your price adjustment policy?",
+            "Do you offer price adjustments?",
+            "Is there a policy for adjusting prices?",
+            "How can I request a price adjustment?",
+            "Can I get a refund for a price drop?",
+            "How does your price adjustment policy work?",
+            "Are there any options for adjusting prices after purchase?",
+            "Can I receive a refund if the price of my purchase drops?",
+            "Is there a procedure for requesting a price match?",
+            "Do you honor price changes after purchase?",
+            "What are the conditions for price adjustments?",
+            "Can I get a partial refund for a price reduction?",
+            "Is there a policy in place for price corrections?",
+            "How do I go about claiming a price adjustment?",
+            "Are there any provisions for price protection?",
+            "What happens if the price of an item I bought decreases?",
+            "Do you offer reimbursement for price differences?",
+            "Are there any opportunities for post-purchase price adjustments?",
+            "How can I inquire about a price match guarantee?",
+            "What is your stance on retroactive price adjustments?",
+            "Do you have a policy regarding price drops after purchase?",
+            "Is there a timeframe for requesting price adjustments?",
+            "Can I receive compensation for a price decrease?",
+            "Do you provide refunds for price fluctuations?",
+            "Are there any options for price reassessment?",
+            "Can I seek reimbursement for a change in price?",
+            "What are my options if the price of my purchase changes?",
+            "How can I claim a refund for a price reduction?",
+            "Is there a procedure for price adjustments after buying?",
+            "Do you offer any form of compensation for price drops?"
+
+          ],
+          "response": [
+            "If a product you purchased goes on sale within 7 days of your purchase, we offer a one-time price adjustment. Please contact our customer support team with your order details to request the adjustment.",
+            "Our price adjustment policy allows for a one-time adjustment if a product you purchased goes on sale within 7 days of your purchase. Please reach out to our customer support team with your order details to request the adjustment.",
+            "We do offer price adjustments within a certain timeframe if the price of an item you purchased drops. You can request a price adjustment by contacting our customer support team and providing your order details.",
+            "If you find that the price of a product you recently purchased has decreased, you may be eligible for a price adjustment. Simply get in touch with our customer support team within 7 days of your purchase, and they will assist you with the process.",
+            "Our policy allows for price adjustments on products that go on sale within 7 days of your purchase. To request a price adjustment, please contact our customer support team and provide them with your order information.",
+            "If you've recently purchased a product that has since gone on sale, you may be eligible for a price adjustment. Contact our customer support team within 7 days of your purchase to request the adjustment and provide them with your order details."
+
+          ]
+        }
+      ]
+        
+    },
+    {
+      "tag": "loyalty_program",
+      "data": [
+        {
+          "query": [
+            "Do you have a loyalty program?",
+            "What are the benefits of your loyalty program?",
+            "How does your loyalty program work?",
+            "Can I earn rewards for my purchases?",
+            "Is there a rewards program available?",
+            "Are there any loyalty programs offered by your company?",
+            "Do you provide any incentives for repeat customers?",
+            "What perks do loyal customers receive?",
+            "Is there a program for earning rewards through purchases?",
+            "Are there any benefits for frequent shoppers?",
+            "Do you offer any loyalty incentives?",
+            "What advantages come with joining your loyalty program?",
+            "Are there any loyalty schemes available to customers?",
+            "How can I participate in your loyalty program?",
+            "What rewards can I earn for my continued patronage?",
+            "Do you have a system for rewarding loyal customers?",
+            "Can I accumulate points for my purchases?",
+            "What kind of loyalty benefits do you offer?",
+            "Are there any perks for being a repeat customer?",
+            "Do you provide any loyalty rewards?",
+            "How does your customer loyalty program function?",
+            "Are there any loyalty initiatives in place?",
+            "Do you offer any incentives for customer loyalty?",
+            "What are the advantages of joining your loyalty program?",
+            "Is there a way to earn points for my purchases?",
+            "Are there any rewards available for loyal customers?",
+            "How does your rewards program operate?",
+            "Do you have any programs for loyal shoppers?",
+            "Can I receive any benefits for my loyalty?",
+            "Are there any rewards programs for regular customers?"
+
+          ],
+          "response": [
+            "Yes, we have a loyalty program where you can earn points for every purchase. These points can be redeemed for discounts on future orders. Please visit our website to learn more and join the program.",
+            "Yes, we offer a loyalty program where customers can earn points for every purchase. These points can be redeemed for discounts on future orders. Visit our website for more information and to join.",
+            "Our loyalty program allows you to earn points with every purchase, which can be redeemed for discounts on future orders. Learn more about the benefits and sign up on our website.",
+            "Earn points for every purchase with our loyalty program and redeem them for discounts on your next orders. Joining is easy, just visit our website to learn more.",
+            "Join our loyalty program and start earning rewards for your purchases. Accumulate points that can be redeemed for discounts on future orders. Visit our website to sign up and learn more.",
+            "Yes, we have a loyalty program where you can earn points for every purchase. These points can be redeemed for discounts on future orders. Visit our website to learn more and join the program."
+
+          ]
+        }
+      ]
+        
+    },
+    {
+      "tag": "order_without_account",
+      "data": [
+        {
+          "query": [
+            "Can I order without creating an account?",
+            "Is guest checkout available?",
+            "Do I need an account to make a purchase?",
+            "What is the process for guest checkout?",
+            "Can I buy items without registering?",
+            "Is it possible to purchase without signing up for an account?",
+            "Do you offer a guest checkout option for ordering?",
+            "Can I make a purchase without the need for an account?",
+            "How do I proceed with checkout without registering?",
+            "Is there an option to buy items without creating an account?",
+            "Can I place an order without the hassle of account creation?",
+            "Do you allow guest purchases without account registration?",
+            "Is there a way to shop without the obligation of making an account?",
+            "Can I complete a transaction without the requirement of setting up an account?",
+            "Do you provide a checkout process for customers without accounts?",
+            "Is there a method to order without the necessity of account creation?",
+            "Can I purchase products without going through the account setup?",
+            "Is guest checkout an available feature for ordering?",
+            "Do I have to register an account to buy items?",
+            "What are my options for checkout if I don't want to create an account?",
+            "Is there a way to checkout as a guest without account registration?",
+            "Can I make a purchase without needing to create a permanent account?",
+            "How can I buy items without the requirement of account creation?",
+            "Is there a guest checkout option for placing an order?",
+            "Do I need to sign up for an account to complete a purchase?",
+            "Can I shop without having to go through the account registration process?",
+            "Is there a method for ordering without the need for an account?",
+            "Do you offer a guest checkout feature for customers?",
+            "What is the process for making a purchase without creating an account?",
+            "Can I proceed with checkout without having to register for an account?"
+
+          ],
+          "response": [
+            "Yes, you can place an order as a guest without creating an account. However, creating an account offers benefits such as order tracking and easier future purchases.",
+            "Absolutely, you have the option to order without creating an account through our guest checkout feature. But keep in mind that creating an account offers additional benefits like order history and faster checkout.",
+            "Absolutely, guest checkout is an option for those who don't wish to create an account. Nevertheless, we suggest creating one for a more seamless shopping experience and access to member benefits."
+
+          ]
+        }
+      ]
+        
+    },
+    {
+      "tag": "bulk_discounts",
+      "data": [
+        {
+          "query": [
+            "Do you offer bulk or wholesale discounts?",
+            "Are there discounts for bulk purchases?",
+            "Can I get a discount for buying in bulk?",
+            "What discounts are available for large orders?",
+            "How do I qualify for bulk discounts?",
+            "Are there special pricing options for purchasing large quantities?",
+            "Do you offer discounts for buying in bulk?",
+            "Are there any incentives for purchasing large quantities of products?",
+            "Can I receive discounts for placing large orders?",
+            "Do you have special rates for bulk orders?",
+            "Are there price breaks for purchasing items in bulk?",
+            "Can I get reduced prices for ordering large quantities of items?",
+            "Do you provide volume discounts for large purchases?",
+            "Are there any benefits for placing bulk orders?",
+            "Can I expect lower prices for buying products in large quantities?",
+            "Do you offer special deals for bulk purchases?",
+            "Are there any advantages to ordering in large volumes?",
+            "Can I receive preferential pricing for ordering large quantities of goods?",
+            "Are there any perks for placing bulk orders with your company?",
+            "Do you offer volume discounts for large orders?",
+            "Are there price reductions available for bulk orders?",
+            "Can I expect cost savings for purchasing items in bulk?",
+            "Do you provide discounts based on the quantity of items purchased?",
+            "Are there special offers for buying products in large quantities?",
+            "Do you offer special pricing for bulk orders?",
+            "Are there any discounts available for purchasing large quantities of products?",
+            "Can I receive price benefits for ordering in bulk?",
+            "Do you have special rates for purchasing items in large volumes?",
+            "Are there any cost advantages for placing bulk orders with your company?",
+            "Do you offer discounts for large-scale purchases?"
+
+
+
+          ],
+          "response": [
+            "Yes, we offer bulk or wholesale discounts for certain products. Please contact our customer support team or visit our Wholesale page for more information and to discuss your specific requirements.",
+            "Certainly, we offer reduced prices for ordering large quantities of items. Reach out to us to learn more about our bulk discount program."
+
+          ]
+        }
+      ]
+        
+    },
+    {
+      "tag": "change_or_cancel_item",
+      "data": [
+        {
+          "query": [
+            "Can I change or cancel an item in my order?",
+            "Is it possible to modify or cancel an item after placing an order?",
+            "What should I do if I want to change or cancel an item?",
+            "How do I cancel or change an item in my order?",
+            "Can I make adjustments to items in my order?",
+            "Is it possible to edit or remove an item from my placed order?",
+            "Can I adjust or cancel any items in my order after it's been submitted?",
+            "What steps should I take if I wish to modify or cancel an item in my order?",
+            "How can I go about changing or canceling an item in my placed order?",
+            "Is there a way for me to make adjustments to items in my order?",
+            "What's the process for modifying or canceling an item in my order?",
+            "Can I modify or cancel any items in my order after it's been confirmed?",
+            "What should I do if I need to make changes to an item in my order?",
+            "Am I allowed to edit or remove items from my order once it's been placed?",
+            "How do I go about altering or canceling items in my order?",
+            "Is there a way to make modifications or cancellations to items in my order?",
+            "Can I request changes or cancellations for items in my order after it's been placed?",
+            "What options do I have if I need to change or cancel an item in my order?",
+            "Is it possible to adjust or remove items from my order once it's been processed?",
+            "How can I make changes or cancellations to items in my order?",
+            "What's the procedure for making modifications or cancellations to items in my order?",
+            "Are there any steps I need to follow if I want to alter or cancel items in my order?",
+            "Can I still make changes or cancellations to items in my order once it's been confirmed?",
+            "What's the protocol for modifying or canceling items in my order?",
+            "Is there a way for me to edit or remove items from my order after it's been placed?",
+            "How can I request changes or cancellations for items in my placed order?",
+            "Can I still modify or cancel items in my order after it's been finalized?",
+            "What should I do if I need to make adjustments to items in my placed order?",
+            "Am I allowed to make changes or cancellations to items in my order once it's been processed?",
+            "How do I go about editing or removing items from my order once it's been confirmed?"
+
+
+
+          ],
+          "response": [
+            "If you need to change or cancel an item in your order, please contact our customer support team as soon as possible. We will assist you with the necessary steps.",
+            "For any changes or cancellations to your order, please contact our customer support team. Whether you need to edit, remove, adjust, modify, or cancel an item, we're here to assist you throughout the process. Reach out to us at your earliest convenience, and we'll guide you through the necessary steps promptly."
+
+          ]
+        }
+      ]
+        
+    },
+    {
+      "tag": "leave_product_review",
+      "data": [
+        {
+          "query": [
+            "How can I leave a product review?",
+            "Where can I write a review for a product?",
+            "Is there a way to provide feedback on products?",
+            "Can I share my thoughts about a product?",
+            "How do I review a product?",
+            "What's the process for submitting a product review?",
+            "Where do I go to leave feedback on a product?",
+            "How do I share my opinion about a product?",
+            "Is it possible to write a review for a product I purchased?",
+            "Where can I provide my thoughts on a product I've used?",
+            "What's the method for leaving a review on a product?",
+            "Can I offer feedback on products I've bought?",
+            "Where on your website can I leave a product review?",
+            "How can I express my satisfaction or dissatisfaction with a product?",
+            "Is there a way to rate and review products I've purchased?",
+            "What steps should I take to leave feedback on a product?",
+            "Where can I post my experiences with your products?",
+            "How do I give my review on a specific product?",
+            "Can I share my opinions about products I've tried?",
+            "What's the procedure for providing feedback on a product?",
+            "Where can I write about my experience with a product?",
+            "How do I rate a product and write a review?",
+            "Is there a section on your website for product reviews?",
+            "Where can I leave my comments on a product I've used?",
+            "How can I give my review for a particular product?",
+            "Can I offer my thoughts on the quality of your products?",
+            "What's the way to leave a review for a product I bought?",
+            "Where do I go to share my thoughts on the products I've purchased?",
+            "How do I provide my feedback on products I've received?",
+            "Is there a platform where I can review the products I've ordered?"
+
+          ],
+          "response": [
+            "To leave a product review, navigate to the product page on our website and click on the 'Write a Review' button. You can share your feedback and rating based on your experience with the product.",
+            "Providing feedback on products is easy. Just go to the product page on our website, click on 'Write a Review,' and share your thoughts along with your rating.",
+            "Share your thoughts about a product by visiting our website, navigating to the product page, and clicking on 'Write a Review.' Your feedback and rating are valuable to us and other customers.",
+            "On our website, you can leave a product review by going to the product page and clicking on 'Write a Review.' Share your experience and rating to help others make informed choices.",
+            "To leave feedback on a product, simply visit our website, locate the product page, and click on 'Write a Review.' Your feedback is essential in shaping our products and services.",
+            "Giving your review on a specific product is easy. Just visit our website, find the product page, and click on 'Write a Review' to share your thoughts and rating.",
+            "You can share your opinions about products you've tried by visiting our website, navigating to the product page, and clicking on 'Write a Review.' Your feedback matters.",
+            "To rate a product and write a review, go to our website, locate the product page, and click on 'Write a Review.' Your feedback is valuable in improving our products."
+
+
+          ]
+        }
+      ]
+        
+    },
+    {
+      "tag": "wrong_item_received",
+      "data": [
+        {
+          "query": [
+            "What should I do if I receive the wrong item?",
+            "What actions should I take if I get the wrong product?",
+            "How do I proceed if I receive an incorrect item?",
+            "What to do if the item I receive is not what I ordered?",
+            "If the item received does not match my order, what should I do?",
+            "What steps do I take if I've been sent the incorrect product?",
+            "How should I handle it if the item I received isn't the one I ordered?",
+            "What is the procedure for dealing with a wrongly received item?",
+            "What steps do I need to follow if the item I receive doesn't match my order?",
+            "If I receive an item that doesn't correspond to my order, what actions should I take?",
+            "What should I do if the product I receive is different from what I expected?",
+            "How do I proceed if I've received an item that doesn't meet my order specifications?",
+            "What actions should I take if the item delivered to me isn't the one I selected?",
+            "What should I do if I've been sent an item that doesn't match the description?",
+            "What actions should I take if the item I received doesn't correspond with my order details?",
+            "How should I handle it if the product delivered to me isn't the one I requested?",
+            "What should I do if the item I receive doesn't match the specifications mentioned in my order?",
+            "How should I proceed if I've received an item that wasn't what I was expecting?",
+            "What should I do if the item delivered to me doesn't match the product I selected?",
+            "How do I handle it if I receive an item that doesn't correspond with the details of my order?",
+            "What actions should I take if I've been sent the wrong item?",
+            "How should I proceed if I receive an item that wasn't what I ordered?",
+            "What steps do I take if I receive a product that doesn't match my order?",
+            "What should I do if I receive an item that isn't what I expected?",
+            "How do I handle it if I receive a product that doesn't correspond with my order details?",
+            "What actions should I take if I've been sent an item that doesn't match the description?",
+            "How should I proceed if the product I receive isn't what I requested?",
+            "What should I do if I receive an item that doesn't match my expectations?",
+            "How should I handle it if the item delivered to me doesn't match the product I selected?",
+            "What actions should I take if the item I receive doesn't align with my order specifications?"
+
+
+          ],
+          "response": [
+            "If you receive the wrong item in your order, please contact our customer support team immediately. We will arrange for the correct item to be shipped to you and assist with returning the wrong item.",
+            "If you've received a product that wasn't what you ordered, please contact our customer support team immediately. We'll swiftly rectify the situation and ensure you receive the correct item.",
+            "If you receive a different product from what you expected, please don't hesitate to contact our customer support team. We'll promptly address the issue and ensure you receive the correct item."
+        
+
+          ]
+        }
+      ]
+        
+    },
+    {
+      "tag": "expedited_shipping",
+      "data": [
+        {
+          "query": [
+            "Do you offer expedited shipping?",
+            "Is expedited shipping available?",
+            "Can I choose faster shipping methods?",
+            "How can I get my order delivered quickly?",
+            "Are there faster shipping options available?",
+            "Are there any ways to speed up the delivery of my order?",
+            "Can I opt for faster delivery methods for my order?",
+            "Is it possible to accelerate the shipping process for my order?",
+            "Do you have any options to expedite the delivery of my purchase?",
+            "Are there quicker shipping alternatives offered?",
+            "Can I select faster shipping methods to receive my order sooner?",
+            "Is there a way to hasten the delivery of my order?",
+            "Are there any ways to expedite the shipping of my order?",
+            "Do you provide any methods for faster delivery of orders?",
+            "Can I choose expedited shipping to receive my order faster?",
+            "Is there a way to get my order delivered more quickly?",
+            "Are there any options for faster delivery of my order?",
+            "Can I expedite the shipping process for my order?",
+            "Are expedited shipping services available for my order?",
+            "Can I speed up the delivery of my order by selecting faster shipping?",
+            "Is there a way to get my order delivered sooner than usual?",
+            "Do you offer any expedited shipping choices for faster delivery?",
+            "Are there any faster shipping options available for my order?",
+            "Can I choose quicker shipping methods for my order?",
+            "Do you provide any expedited shipping services for faster delivery?",
+            "Can I opt for expedited shipping to receive my order faster?",
+            "Is there a way to accelerate the delivery of my order?",
+            "Are expedited shipping options provided for faster delivery?",
+            "Can I select faster delivery options for my order?",
+            "Do you offer expedited shipping methods for quicker delivery?"
+
+          ],
+          "response": [
+            "Yes, we offer expedited shipping options for faster delivery. During the checkout process, you can select the desired expedited shipping method.",
+            "Yes, you can choose quicker shipping methods for your order to expedite delivery. We offer expedited shipping options for faster delivery during checkout.",
+            "Yes, we provide expedited shipping options for faster delivery of your order. You can select your preferred expedited shipping method during checkout.",
+            "Yes, we offer expedited shipping methods for quicker delivery of your order. You can choose your preferred expedited shipping method during checkout."
+
+          ]
+        }
+      ]
+        
+    },
+    {
+      "tag": "order_out_of_stock",
+      "data": [
+        {
+          "query": [
+            "Can I order a product that is out of stock?",
+            "Is it possible to purchase items that are not in stock?",
+            "How do I proceed if the item I want is out of stock?",
+            "What if the product I want is unavailable?",
+            "What to do if the item I want to buy is out of stock?",
+            "Is it possible to order products that are currently unavailable?",
+            "Can I purchase items that are not currently in stock?",
+            "What should I do if the product I want to buy is currently unavailable?",
+            "How do I proceed if the item I'm interested in is out of stock?",
+            "What steps should I take if the product I want is currently out of stock?",
+            "Is there a way to order products that are temporarily unavailable?",
+            "Can I still purchase items that are listed as out of stock?",
+            "What options do I have if the product I want to buy is not in stock?",
+            "How can I buy products that are currently unavailable?",
+            "Is there a way to purchase items that are temporarily out of stock?",
+            "What should I do if the item I'm looking for is not available for purchase?",
+            "Can I order a product even if it's currently out of stock?",
+            "How do I proceed if the item I want to purchase is listed as out of stock?",
+            "What actions should I take if the product I want is unavailable?",
+            "Is there a way to order items that are currently out of stock?",
+            "Can I purchase products that are marked as out of stock?",
+            "How can I proceed with ordering if the product I want is out of stock?",
+            "What steps should I take if the item I'm interested in purchasing is not available?",
+            "Is it possible to buy products that are temporarily unavailable?",
+            "Can I still place an order for items that are out of stock?",
+            "How do I proceed if the product I want to order is listed as out of stock?",
+            "What should I do if the item I want to purchase is currently unavailable?",
+            "Can I order a product that is temporarily out of stock?",
+            "How can I proceed with my purchase if the item I want is not currently in stock?",
+            "What actions should I take if the product I want to buy is marked as out of stock?"
+
+
+          ],
+          "response": [
+            "If a product is currently out of stock, you will usually see an option to sign up for product notifications. This way, you will be alerted when the product becomes available again.",
+            "If an item is out of stock, you may have the option to sign up for alerts to be notified when it becomes available again.",
+            "When the product you want is out of stock, you can often sign up for alerts to be notified once it's back in stock.",
+            "If the product you want to buy is not in stock, consider signing up for notifications to be notified when it's available again.",
+            "If the product you want is unavailable, you can usually sign up for notifications to be notified once it's back in stock.",
+            "If the item you want to purchase is currently unavailable, consider signing up for notifications to be notified when it's back in stock.",
+            "If the item you want is not currently in stock, consider signing up for notifications to receive updates when it's back in stock."
+
+          ]
+        }
+      ]
+        
+    },
+    {
+      "tag": "return_policy_changed_mind",
+      "data": [
+        {
+          "query": [
+            "Can I return a product if I changed my mind?",
+            "If I decide I don't want a product anymore, can I return it?",
+            "What if I regret buying a product? Can I return it?",
+            "Is there a return option for products if I change my mind?",
+            "What's the process for returning items if I no longer want them?",
+            "Am I allowed to return a product if I've had a change of heart?",
+            "What is the policy for returning products if I've had a change of mind?",
+            "Can products be returned if I no longer wish to keep them?",
+            "Is there a procedure for returning items if I've reconsidered my purchase?",
+            "What happens if I decide I don't want the product anymore? Can I return it?",
+            "If I've had a change of mind about my purchase, what are my options for returning it?",
+            "What is the return process if I've changed my mind about a purchase?",
+            "Can I return a product if I've reconsidered my decision to purchase it?",
+            "What are the steps for returning a product if I've changed my mind about it?",
+            "Is it possible to return a product if I've had second thoughts about my purchase?",
+            "What should I do if I've had a change of heart about a product I purchased?",
+            "Can I return a product if I've realized it's not what I wanted?",
+            "What options do I have for returning a product if I've changed my mind about it?",
+            "If I regret buying a product, what are the steps for returning it?",
+            "What is the return policy if I decide I don't want a product anymore?",
+            "What is the procedure for returning products if I've changed my mind about them?",
+            "If I've reconsidered my purchase, can I still return the product?",
+            "How can I initiate a return if I've had a change of mind about my purchase?",
+            "What should I do if I've decided I no longer want the product I purchased?",
+            "If I've reconsidered my decision to buy a product, what are my options for returning it?",
+            "What steps should I take if I've changed my mind about a product I ordered?",
+            "Is it possible to return a product if I've realized it's not suitable for my needs?",
+            "What is the process for returning items if I no longer want them?",
+            "If I've changed my mind about purchasing a product, what should I do?",
+            "Can I return a product if I've realized it's not what I expected?"
+
+          ],
+          "response": [
+            "Yes, you can return a product if you changed your mind. Please ensure the product is in its original condition and packaging, and refer to our return policy for instructions.",
+            "If you've reconsidered your purchase, you can return the product according to our return policy guidelines. Please ensure it meets the specified criteria for return."
+
+          ]
+        }
+      ]
+        
+    },
+    {
+      "tag": "live_chat_support",
+      "data": [
+        {
+          "query": [
+            "Do you offer live chat support?",
+            "How can I contact support in real-time?",
+            "Is there an option for live chat assistance?",
+            "Can I chat with someone from customer support?",
+            "How do I get help through live chat?",
+            "Is live chat support available for assistance?",
+            "How do I reach out to support in real-time?",
+            "Can I communicate with customer support via live chat?",
+            "What options do I have for getting help through live chat?",
+            "Is there a way to chat with someone from customer support?",
+            "How can I access live chat assistance?",
+            "What is the process for initiating a live chat with support?",
+            "Can I get real-time support through live chat?",
+            "Is live chat assistance an option for contacting support?",
+            "How do I access live chat for customer assistance?",
+            "What is the method for getting help via live chat?",
+            "Can I seek assistance through live chat?",
+            "Is live chat support an available option for customer queries?",
+            "How can I connect with support through live chat?",
+            "Do you provide live chat assistance for customer inquiries?",
+            "What are the options for contacting support via live chat?",
+            "How do I engage in live chat with customer support?",
+            "Is there a live chat feature for seeking assistance?",
+            "Can I receive help through live chat?",
+            "What options do I have for reaching out to support via live chat?",
+            "How can I start a live chat with customer support?",
+            "Is live chat available for customer service inquiries?",
+            "Can I use live chat for assistance with my queries?",
+            "How do I access live chat support for assistance?",
+            "Is there an option for live chat assistance with customer service?",
+            "What is the process for getting help through live chat?"
+
+          ],
+          "response": [
+            "Yes, we offer live chat support on our website during our business hours. Look for the chat icon in the bottom right corner to initiate a chat with our customer support team.",
+            "The process for getting help through live chat involves visiting our website during business hours and clicking on the chat icon to initiate a conversation with our customer support team.",
+            "To get help via live chat, visit our website during business hours and click on the chat icon to connect with our customer support team. We're here to assist you in real-time."
+
+          ]
+        }
+      ]
+        
+    },
+    {
+      "tag": "discount_code_not_working",
+      "data": [
+        {
+          "query": [
+            "What should I do if my discount code is not working?",
+            "Why isn't my discount code working?",
+            "How can I fix a discount code that isn't working?",
+            "My discount code isn't applying. What should I do?",
+            "What do I do if my discount code isn't accepted?",
+            "My discount code isn't applying. What should I do?",
+            "Why doesn't my discount code work?",
+            "How do I resolve an issue with my discount code not working?",
+            "What steps should I take if my discount code isn't accepted?",
+            "What can I do if my promotional code isn't applying?",
+            "How can I troubleshoot my discount code that's not working?",
+            "My discount code isn't going through. What should I do next?",
+            "What do I do if the system doesn't accept my discount code?",
+            "How should I proceed if my discount code isn't valid?",
+            "What should I check if my discount code isn't applying correctly?",
+            "Why isn't the discount code I entered working?",
+            "What could be causing my discount code to not apply?",
+            "How do I fix a discount code that's not being accepted?",
+            "Is there a way to troubleshoot my discount code if it's not working?",
+            "My discount code isn't applying correctly. What should I do next?",
+            "What steps can I take to resolve my discount code issue?",
+            "How can I rectify my discount code that's not working?",
+            "What should I do if my discount code fails to apply at checkout?",
+            "How can I troubleshoot issues with my discount code?",
+            "Why am I unable to use my discount code during my purchase?",
+            "My discount code isn't working. What could be the problem?",
+            "What steps should I take if my discount code isn't recognized by the system?",
+            "How do I address issues with my discount code not applying as expected?",
+            "Why does my discount code appear invalid when I try to use it?",
+            "What are the possible reasons for my discount code not being accepted?"
+
+          ],
+          "response": [
+            "If your discount code is not working, please double-check the terms and conditions associated with the code. If the issue persists, contact our customer support team for assistance.",
+            "If your discount code isn't applying correctly, double-check its validity and correctness. If the issue persists, don't hesitate to contact our customer support team for further assistance."
+
+          ]
+        }
+      ]
+        
+    },
+    
+    {
+      "tag": "order_delivery_to_different_country",
+      "data": [
+        {
+          "query": [
+            "Can I order a product for delivery to a different country?",
+            "Is international shipping available for all products?",
+            "Can I ship products internationally?",
+            "Do you deliver orders worldwide?",
+            "What if I want to send a gift abroad?",
+            "Are there options for shipping products to other countries?",
+            "Is it possible to have items delivered internationally?",
+            "Can I place an order for delivery outside my country?",
+            "Do you provide shipping services to other countries?",
+            "Is it possible to send products internationally as gifts?",
+            "Are there options for international delivery of products?",
+            "Can I order items to be shipped overseas?",
+            "Do you offer shipping services for international orders?",
+            "Is international delivery an option for all products?",
+            "Can I ship items to locations outside my country?",
+            "Are there restrictions on shipping products internationally?",
+            "Is global shipping available for all your products?",
+            "Can I send products to friends or family living abroad?",
+            "Are there additional charges for international shipping?",
+            "Can I have products delivered to addresses in other countries?",
+            "Do you support delivery to international addresses?",
+            "Can I order items to be shipped overseas as presents?",
+            "Is it possible to have products delivered to locations outside my country of residence?",
+            "Do you offer delivery options for international customers?",
+            "Is it possible to ship products to overseas addresses?",
+            "Can I order products to be delivered internationally?",
+            "Do you provide delivery services for orders outside the country?",
+            "Are there any restrictions on shipping products to other countries?",
+            "Can I have items shipped to international addresses if I'm purchasing online?",
+            "Is it possible to have products delivered to addresses outside my home country?"
+
+          ],
+          "response": [
+            "Yes, we offer international shipping to select countries. Please review the available shipping destinations during checkout or contact our customer support for assistance.",
+            "Yes, we provide shipping options to various countries worldwide. You can check the available destinations during checkout or contact our customer support team for assistance.",
+            "Certainly, we facilitate international delivery for our products. You can explore the available shipping destinations during checkout or reach out to our customer support for guidance.",
+            "Yes, we do offer shipping services to various countries worldwide. You can find information about available shipping destinations during checkout or contact our customer support team for help.",
+            "We offer international shipping for gifts. During checkout, you can specify the desired destination, or you can contact our customer support team for assistance with sending gifts abroad."
+
+          ]
+        }
+      ]
+        
+    },
+    {
+      "tag": "add_gift_message",
+      "data": [
+        {
+          "query": [
+            "Can I add a gift message to my order?",
+            "Is it possible to include a message with my order?",
+            "How can I include a gift message?",
+            "What if I want to add a note to my order?",
+            "Can I write a message for the recipient?",
+            "Is there an option to include a personalized message with my order?",
+            "Can I write a custom note to accompany my purchase?",
+            "How do I add a personalized message to my order?",
+            "Is it possible to attach a message for the recipient when ordering?",
+            "Can I include a special note with the item I'm purchasing?",
+            "How can I include a personal message along with my order?",
+            "Is there a way to add a custom message to the items I'm buying?",
+            "What are the steps for adding a personalized message to my purchase?",
+            "Can I include a message if I'm sending the item as a gift?",
+            "How do I leave a special note for the recipient of my order?",
+            "Is it possible to personalize my order with a message?",
+            "Are there options for adding a custom message to my purchase?",
+            "Can I add a note to my order for a special occasion?",
+            "How can I attach a personal note to my order?",
+            "Is there a way to include a personalized greeting with my purchase?",
+            "Do you provide the option to add a message when ordering?",
+            "Can I write a special message for the recipient of my order?",
+            "How do I include a personalized note with my purchase?",
+            "Are there fields for adding a personalized touch to my order?",
+            "Can I leave a message if I'm sending the item as a gift?",
+            "How do I input a special message when placing my order?",
+            "Is there a way to personalize my order with a message for the recipient?",
+            "Can I add a personal touch by including a message with my order?",
+            "Do you offer the option to include a special note with orders?",
+            "How can I include a custom message with my order?"
+
+          ],
+          "response": [
+            "Yes, you can add a gift message during the checkout process. There is usually a section where you can enter your personalized message.",
+            "Certainly, when placing your order, you'll have the option to include a personalized message for the recipient. Just look for the designated section during checkout to input your message."
+
+          ]
+        }
+      ]
+        
+    },
+    {
+      "tag": "request_product_demonstration",
+      "data": [
+        {
+          "query": [
+            "Can I request a product demonstration before making a purchase?",
+            "Is it possible to see a product demonstration?",
+            "How can I request a product demo?",
+            "Do you provide product demonstrations?",
+            "Can I try the product before buying?",
+            "Is there a way for me to see the product in action before I buy?",
+            "Can I view a demonstration of the product prior to making a purchase?",
+            "How can I see the product in action before I decide to purchase it?",
+            "Do you offer any opportunities to try out the product before I make a purchase?",
+            "Is there a chance for me to test the product before committing to a purchase?",
+            "Can I get a hands-on experience with the product before I buy it?",
+            "Is there a way for me to personally see how the product works before I make a purchase?",
+            "How can I test out the product before deciding to purchase it?",
+            "Do you allow customers to try the product before they buy it?",
+            "Can I request a hands-on demonstration of the product before making a purchase?",
+            "Is there an option to physically see the product before purchasing it?",
+            "How can I get a feel for the product before I decide to buy it?",
+            "Can I schedule a product demo to see the product in action?",
+            "Do you provide opportunities for customers to try out the product before purchasing?",
+            "Is there any way for me to physically test the product before making a purchase?",
+            "Can I arrange to see a demonstration of the product before deciding whether to buy it?",
+            "Is it possible to see a live demonstration of the product prior to purchasing it?",
+            "Can I try out the product in person before I commit to buying it?",
+            "Do you offer any opportunities for customers to test the product before they make a purchase?",
+            "Is there a way for me to experience the product firsthand before making a purchase?",
+            "Can I request a trial of the product to see if it meets my needs before I buy it?",
+            "Is there a possibility for me to see the product in action before I decide to purchase it?",
+            "Can I arrange to see a demo of the product to better understand its features before buying?",
+            "Do you provide any options for customers to try the product before purchasing it?",
+            "Is there a way for me to test out the product before making a decision to buy?"
+
+
+          ],
+          "response": [
+            "We do not currently offer product demonstrations before purchase. However, you can find detailed product descriptions, specifications, and customer reviews on our website.",
+            "While we don't offer in-person product demonstrations, you can explore our website for comprehensive information, including detailed descriptions, specifications, and customer reviews, to help you make an informed decision about your purchase."
+          ]
+        }
+      ]
+        
+    },
+    {
+      "tag": "order_coming_soon_product",
+      "data": [
+        {
+          "query": [
+            "Can I order a product that is listed as 'coming soon'?",
+            "What if I want to purchase a product that is coming soon?",
+            "Is it possible to buy products that are coming soon?",
+            "When will the products listed as 'coming soon' be available?",
+            "Can I pre-order items that are coming soon?",
+            "Is it possible to place an order for a product labeled as 'coming soon'?",
+            "How can I purchase a product that is listed as 'coming soon'?",
+            "Can I buy items that are marked as 'coming soon'?",
+            "When will the products listed as 'coming soon' be ready for purchase?",
+            "Is there a way to pre-order items that are labeled as 'coming soon'?",
+            "Can I reserve a product that is listed as 'coming soon'?",
+            "How do I buy products that are listed as 'coming soon'?",
+            "Is there a way to order products in advance if they are listed as 'coming soon'?",
+            "Can I place a reservation for products that are labeled as 'coming soon'?",
+            "How can I purchase a product that hasn't been released yet?",
+            "What options do I have to buy products that are labeled as 'coming soon'?",
+            "Can I place an order in advance for products that are listed as 'coming soon'?",
+            "Is it possible to reserve products before they are released?",
+            "What are my options for purchasing products that are labeled as 'coming soon'?",
+            "Can I pre-order products that are listed as 'coming soon'?",
+            "How can I buy products that are not yet released?",
+            "Is there a way to order products before they are officially launched?",
+            "When will I be able to purchase products that are listed as 'coming soon'?",
+            "Can I buy products before they are released if they are marked as 'coming soon'?",
+            "Is there an option to pre-order products that are labeled as 'coming soon'?",
+            "How can I purchase products that are still in the 'coming soon' phase?",
+            "Can I reserve products before they are officially released?",
+            "When can I expect products listed as 'coming soon' to be available for purchase?",
+            "Is there a way to purchase products before their official launch if they are marked as 'coming soon'?",
+            "Can I order products that are labeled as 'coming soon' before they are released?"
+
+
+          ],
+          "response": [
+            "Products listed as 'coming soon' are not available for immediate purchase. Please sign up for notifications to be informed when the product becomes available.",
+            "While products labeled as 'coming soon' cannot be ordered immediately, you can sign up for notifications to be alerted when they become available for purchase."
+        
+
+          ]
+        }
+      ]
+        
+    },
+    {
+      "tag": "order_limited_edition_product",
+      "data": [
+        {
+          "query": [
+            "Can I order a product that is labeled as 'limited edition'?",
+            "Is it possible to purchase a 'limited edition' product?",
+            "How can I buy a product labeled as 'limited edition'?",
+            "Can I purchase a product if it's listed as 'limited edition'?",
+            "What if I want to buy a 'limited edition' product?",
+            "Is it possible to purchase a product labeled as 'limited edition'?",
+            "How can I buy a product that is designated as 'limited edition'?",
+            "Can I purchase a product if it's listed as 'limited edition'?",
+            "What if I want to buy a 'limited edition' product?",
+            "Is there a way to order a product that is labeled as 'limited edition'?",
+            "Can I purchase a 'limited edition' item?",
+            "How do I go about ordering a 'limited edition' product?",
+            "Is it possible to buy a product labeled as 'limited edition'?",
+            "What steps should I take to purchase a 'limited edition' product?",
+            "Can I order a product if it's marked as 'limited edition'?",
+            "How can I acquire a product designated as 'limited edition'?",
+            "Is there an option to purchase a 'limited edition' item?",
+            "What can I do to buy a product labeled as 'limited edition'?",
+            "Can I get a 'limited edition' product?",
+            "How can I purchase an item if it's listed as 'limited edition'?",
+            "Is there a way to buy a product that's listed as 'limited edition'?",
+            "How do I order a product labeled as 'limited edition'?",
+            "Can I purchase a product that's labeled as 'limited edition'?",
+            "Is it possible to acquire a product if it's labeled as 'limited edition'?",
+            "How can I buy a product labeled as 'limited edition'?",
+            "Can I get my hands on a 'limited edition' product?",
+            "How do I purchase a product if it's marked as 'limited edition'?",
+            "Is it possible to order a product labeled as 'limited edition'?",
+            "How can I buy a product if it's listed as 'limited edition'?",
+            "Can I purchase a product that's listed as 'limited edition'?"
+
+
+          ],
+          "response": [
+            "'Limited edition' products may have restricted availability. We recommend placing an order as soon as possible to secure your item.",
+            "For 'limited edition' products, we advise placing your order promptly to ensure availability. If you're interested in a product labeled as 'limited edition,' we suggest acting quickly to secure the item before it's sold out."
+
+          ]
+        }
+      ]
+        
+    },
+    
+    {
+      "tag": "return_without_original_packaging",
+      "data": [
+        {
+          "query": [
+            "Can I return a product if I no longer have the original packaging?",
+            "What if I want to return a product but don't have the original packaging?",
+            "Is it possible to return a product without its original packaging?",
+            "Can I initiate a return if I've discarded the original packaging?",
+            "What if I no longer have the original packaging for a return?",
+            "Is it acceptable to return a product if I've disposed of the original packaging?",
+            "What if I need to return a product but no longer have its original packaging?",
+            "Can I request a return for a product even if I've thrown away the original packaging?",
+            "What are my options for returning a product if I no longer have its original packaging?",
+            "Is there a way to return a product without its original packaging?",
+            "How should I handle a return if I've discarded the original packaging?",
+            "Can I still return a product if I've thrown away its original packaging?",
+            "What should I do if I want to return a product but no longer have its original packaging?",
+            "Is it possible to initiate a return without the original packaging?",
+            "How can I return a product if I don't have its original packaging?",
+            "Can I still return a product if I've thrown away its packaging?",
+            "What steps should I take to return a product if I no longer have its original packaging?",
+            "Is there a way to return a product if I've misplaced its original packaging?",
+            "How do I go about returning a product if I've gotten rid of its original packaging?",
+            "Can I return a product even if I no longer have its original packaging?",
+            "What should I do if I want to return a product but have thrown away its original packaging?",
+            "Is it possible to return a product without its original packaging?",
+            "How can I return a product if I've disposed of its original packaging?",
+            "Can I still return a product if I've thrown away its original packaging?",
+            "What options do I have for returning a product if I've discarded the original packaging?",
+            "Is it acceptable to return a product if I no longer have the original packaging?",
+            "How should I proceed with a return if I no longer have the original packaging?",
+            "Can I return a product without its original packaging?",
+            "What should I do if I need to return a product but have misplaced its original packaging?",
+            "Is there a procedure for returning a product if I've misplaced its original packaging?"
+
+
+          ],
+          "response": [
+            "While returning a product in its original packaging is preferred, you can still initiate a return without it. Contact our customer support team for guidance in such cases.",
+            "If you need to return a product but no longer have its original packaging, don't worry. You can still initiate the return process. Contact our customer support team for further instructions.",
+            "Yes, you can still request a return for a product even if you've disposed of the original packaging. Reach out to our customer support team, and they will assist you with the return process."
+
+          ]
+        }
+      ]
+        
+    },
+    
+    {
+      "tag": "request_product_reservation",
+      "data": [
+        {
+          "query": [
+            "Can I request a product that is currently out of stock to be reserved for me?",
+            "Is it possible to reserve an out-of-stock product?",
+            "How can I reserve a product that is out of stock?",
+            "Can I hold an out-of-stock product for future purchase?",
+            "What if I want to reserve a product that is not available?",
+            "Is it possible to reserve a product that is currently unavailable?",
+            "Can I place a reservation for a product that is currently out of stock?",
+            "How do I reserve a product that is currently unavailable?",
+            "Is there a way to reserve an item that is currently out of stock?",
+            "What if I want to reserve a product that is temporarily unavailable?",
+            "Can I request a product that is currently unavailable to be reserved for me?",
+            "How can I hold an item for future purchase if it's currently out of stock?",
+            "Is it possible to reserve a product that is temporarily out of stock?",
+            "Can I reserve an out-of-stock product for later purchase?",
+            "How can I reserve a product that is currently unavailable?",
+            "What if I want to reserve a product that is currently out of stock?",
+            "Can I request a product to be reserved for me if it's out of stock?",
+            "Is it possible to reserve an item for future purchase if it's not currently available?",
+            "How do I reserve a product that is currently out of stock?",
+            "Can I hold an out-of-stock product for future purchase?",
+            "What if I want to reserve a product that is not available?",
+            "Is it possible to request a product reservation for an item that is currently unavailable?",
+            "How can I reserve a product that is out of stock for future purchase?",
+            "Can I reserve a product that is temporarily out of stock?",
+            "What if I want to reserve a product that is currently unavailable?",
+            "Is there a way to request a product reservation for an item that is not currently in stock?",
+            "Can I hold an out-of-stock product for future purchase?",
+            "How do I reserve a product that is temporarily unavailable?",
+            "Can I request a product reservation if it's currently out of stock?",
+            "Is it possible to reserve an out-of-stock product for future purchase?",
+            "What if I want to reserve a product that is temporarily unavailable?",
+            "Can I reserve a product for later purchase if it's currently out of stock?",
+            "How can I reserve a product that is out of stock for future purchase?"
+
+          ],
+          "response": [
+            "We do not offer reservations for out-of-stock products. However, you can sign up for product notifications to be alerted when it becomes available again.",
+            "Unfortunately, we don't offer reservations for products that are currently out of stock. However, you can sign up for product notifications to be notified when it becomes available again.",
+            "Unfortunately, we don't offer the option to hold items for future purchase when they're out of stock. You can sign up for product notifications to be alerted when it's available again."
+
+          ]
+        }
+      ]
+        
+    },
+    {
+      "tag": "return_damaged_during_shipping",
+      "data": [
+        {
+          "query": [
+            "Can I return a product if it was damaged during shipping?",
+            "What should I do if my product arrives damaged?",
+            "Is it possible to return a damaged product received in shipping?",
+            "How do I return a product that was damaged during transit?",
+            "What if my item is damaged when it arrives?",
+            "What steps should I take if my product arrives with shipping damage?",
+            "Is there a procedure for returning a product damaged during shipping?",
+            "How should I handle a product that was damaged during transit?",
+            "What should I do if my item is damaged upon arrival?",
+            "Can I initiate a return for a product damaged during shipping?",
+            "What are the options for returning a product damaged in transit?",
+            "How do I return a product if it's damaged during shipping?",
+            "Is it acceptable to return a product that has been damaged during shipping?",
+            "What should I do if my product sustains damage during shipping?",
+            "Can I request a return for a product if it's damaged during shipping?",
+            "How can I return a product that was damaged during transit?",
+            "What if my item arrives damaged due to shipping?",
+            "Is there a way to return a product damaged during shipping?",
+            "What steps should I take if my product sustains damage in transit?",
+            "How should I handle a product that was damaged during shipping?",
+            "Can I return a product if it's damaged upon arrival?",
+            "What should I do if my item arrives with shipping damage?",
+            "Is it possible to return a product that arrives with shipping damage?",
+            "What are my options for returning a product damaged during transit?",
+            "How do I return a product if it arrives damaged?",
+            "Can I request a return for a product if it's damaged upon arrival?",
+            "What steps should I take if my product arrives damaged due to shipping?",
+            "How should I handle a product that sustains damage during shipping?",
+            "Can I return a product if it was damaged during transit?"
+
+
+          ],
+          "response": [
+            "If your product was damaged during shipping, please contact our customer support team immediately. We will guide you through the return and replacement process.",
+            "If your product arrives damaged due to shipping, please contact our customer support team immediately for assistance with the return and replacement process.",
+            "Upon receiving a damaged product, ensure to document the damage with photos and then promptly notify our customer support team. They will guide you through the necessary steps for returning the damaged item and arranging for a replacement."
+
+          ]
+        }
+      ]
+        
+    },
+    {
+      "tag": "request_product_restocked",
+      "data": [
+        {
+          "query": [
+            "Can I request a product that is out of stock to be restocked?",
+            "Is there a way to request restocking of out-of-stock items?",
+            "How can I request a product to be restocked if it's out of stock?",
+            "Can I ask for a product to be restocked if it's currently unavailable?",
+            "What if I want to request a restock of an out-of-stock item?",
+            "Is it possible to request a product that is currently unavailable to be restocked?",
+            "Can I ask for a product to be replenished if it's out of stock?",
+            "How do I request a product to be restocked if it's currently unavailable?",
+            "Is there a way to ask for restocking of items that are currently out of stock?",
+            "Can I request a restock of a product that is not available?",
+            "How can I request a product to be restocked if it's out of stock?",
+            "Is it possible to ask for a product to be restocked?",
+            "Can I request a product to be replenished if it's currently out of stock?",
+            "How do I request restocking of an out-of-stock item?",
+            "What steps should I take to request a product to be restocked?",
+            "Can I ask for a restock of a product that is currently unavailable?",
+            "Is there a procedure for requesting restocking of out-of-stock items?",
+            "How should I request a product to be restocked if it's out of stock?",
+            "Can I request a restock of a product that is not available?",
+            "What if I want to request a restock of an item that is currently out of stock?",
+            "How can I request a restock of a product that is currently unavailable?",
+            "Is it possible to ask for a restock of an out-of-stock product?",
+            "Can I request a restock of a product if it's currently out of stock?",
+            "How do I request a product to be restocked?",
+            "What steps should I take to request restocking of a product?",
+            "Can I ask for a product to be restocked?",
+            "Is there a way to request a restock of products that are currently out of stock?",
+            "Can I request a product to be restocked if it's not available?",
+            "How can I request a restock of a product that is currently out of stock?",
+            "Can I ask for a restock of an item that is not available?",
+            "What if I want to request a restock of a product that is currently unavailable?",
+            "How can I request restocking of a product that is currently out of stock?",
+            "Is it possible to ask for a restock of an item if it's currently out of stock?"
+
+
+          ],
+          "response": [
+            "We strive to restock popular products whenever possible. Please sign up for product notifications to be informed when the item becomes available again.",
+            "We strive to ensure that popular products are regularly restocked to meet customer demand. To stay informed about restocking updates, please consider signing up for our product notifications."
+
+          ]
+        }
+      ]
+        
+    },
+    {
+      "tag": "order_backordered_product",
+      "data": [
+        {
+          "query": [
+            "Can I order a product if it is listed as 'backordered'?",
+            "Is it possible to purchase a 'backordered' product?",
+            "How can I buy a product labeled as 'backordered'?",
+            "Can I purchase a product if it's marked as 'backordered'?",
+            "What if I want to buy a 'backordered' product?",
+            "Is it permissible to place an order for a product labeled as 'backordered'?",
+            "Can I proceed with purchasing a product if it's listed as 'backordered'?",
+            "How do I buy a product that is marked as 'backordered'?",
+            "Is it feasible to order a product if it's listed as 'backordered'?",
+            "What steps should I take to purchase a product labeled as 'backordered'?",
+            "Can I buy a product if it's marked as 'backordered'?",
+            "Is it possible to order a product that is listed as 'backordered'?",
+            "How can I purchase a product labeled as 'backordered'?",
+            "Can I proceed with buying a product if it's marked as 'backordered'?",
+            "What if I want to order a 'backordered' product?",
+            "Is it permissible to purchase a product listed as 'backordered'?",
+            "How do I proceed with ordering a product marked as 'backordered'?",
+            "Can I buy a product if it's labeled as 'backordered'?",
+            "Is it possible to order a product that is marked as 'backordered'?",
+            "How can I purchase a product if it's listed as 'backordered'?",
+            "Can I proceed with buying a product labeled as 'backordered'?",
+            "What if I want to order a 'backordered' product?",
+            "Is it permissible to purchase a product listed as 'backordered'?",
+            "How do I proceed with ordering a product marked as 'backordered'?",
+            "Can I buy a product if it's labeled as 'backordered'?",
+            "Is it possible to order a product that is marked as 'backordered'?",
+            "How can I purchase a product if it's listed as 'backordered'?",
+            "Can I proceed with buying a product labeled as 'backordered'?",
+            "What if I want to order a 'backordered' product?",
+            "Is it permissible to purchase a product listed as 'backordered'?",
+            "How do I proceed with ordering a product marked as 'backordered'?"
+
+
+          ],
+          "response": [
+            "Products listed as 'backordered' are temporarily out of stock but can still be ordered. Your order will be fulfilled once the product is restocked.",
+            "You can place an order for products labeled as 'backordered.' Your order will be processed and fulfilled once the product is restocked.",
+            "Yes, you can still proceed with purchasing a product even if it's listed as 'backordered.' Once the item is back in stock, we'll process and ship your order."
+
+          ]
+        }
+      ]
+        
+    },
+    {
+      "tag": "request_product_repair_or_replacement_damaged",
+      "data": [
+        {
+          "query": [
+            "Can I request a product repair or replacement if it is damaged?",
+            "What if the product I received is damaged? Can I request repair or replacement?",
+            "Is it possible to request repair or replacement for a damaged product?",
+            "How can I get a damaged product repaired or replaced?",
+            "What should I do if I receive a damaged product? Can I request repair or replacement?",
+            "How do I request repair or replacement for a damaged product?",
+            "Is there a procedure for requesting repair or replacement if a product is damaged?",
+            "Can I ask for repair or replacement if the product I received is damaged?",
+            "What steps should I take if I receive a damaged product and want repair or replacement?",
+            "How can I get a damaged product repaired or replaced?",
+            "Is it possible to request repair or replacement for a damaged item?",
+            "Can I request repair or replacement for a product that arrives damaged?",
+            "How should I proceed if I want to request repair or replacement for a damaged product?",
+            "What if I receive a damaged product? Can I request repair or replacement?",
+            "Is there a way to request repair or replacement for a product damaged during shipping?",
+            "How can I request repair or replacement for a product damaged in transit?",
+            "Can I request repair or replacement for a product that is defective upon arrival?",
+            "What are the options for requesting repair or replacement if a product is damaged?",
+            "How do I proceed if I want to request repair or replacement for a damaged product?",
+            "Can I request repair or replacement for a product that is received in a damaged condition?",
+            "What should I do if the product I received is damaged? Can I request repair or replacement?",
+            "Is it possible to request repair or replacement for a product that arrives in poor condition?",
+            "Can I ask for repair or replacement if the product I received is defective?",
+            "How should I proceed if I want to request repair or replacement for a defective product?",
+            "What are my options if I want to request repair or replacement for a product that is damaged?",
+            "Can I request repair or replacement for a product that is found to be faulty?",
+            "Is there a procedure for requesting repair or replacement if a product is received in a damaged state?",
+            "How can I proceed if I want to request repair or replacement for a product that arrives with damage?",
+            "Can I request repair or replacement for a product that arrives with defects?",
+            "What if I receive a damaged product? What steps should I take to request repair or replacement?"
+
+          ],
+          "response": [
+            "If you receive a damaged product, please contact our customer support team immediately. We will assist you with the necessary steps for repair or replacement.",
+            "In case you receive a damaged product, kindly reach out to our customer support team promptly. They will offer personalized assistance to ensure a seamless process for repair or replacement of the damaged item."
+
+          ]
+        }
+      ]
+        
+    },
+    {
+      "tag": "request_product_discontinued",
+      "data": [
+        {
+          "query": [
+            "Can I request a product if it is listed as 'discontinued'?",
+            "Is it possible to request a product marked as 'discontinued'?",
+            "How can I order a product marked as 'discontinued'?",
+            "What if I want to buy a product labeled as 'discontinued'?",
+            "Can I still get a product that's marked as 'discontinued'?",
+            "Is it possible to purchase a product labeled as 'discontinued'?",
+            "Can I still buy a product if it's marked as 'discontinued'?",
+            "What steps should I take if I want to purchase a product listed as 'discontinued'?",
+            "How do I order a product that's marked as 'discontinued'?",
+            "Is there a way to get a product that's labeled as 'discontinued'?",
+            "Can I request a product that is listed as 'discontinued'?",
+            "How can I order a product if it's listed as 'discontinued'?",
+            "Is it possible to get a product marked as 'discontinued'?",
+            "Can I still purchase a product labeled as 'discontinued'?",
+            "How do I buy a product marked as 'discontinued'?",
+            "What if I want to order a 'discontinued' product?",
+            "Is there a procedure for purchasing a product listed as 'discontinued'?",
+            "Can I request a product to be restocked if it's listed as 'discontinued'?",
+            "How can I get a 'discontinued' product?",
+            "Can I still order a product if it's marked as 'discontinued'?",
+            "What if I want to purchase a product listed as 'discontinued'?",
+            "How do I proceed if I want to buy a 'discontinued' product?",
+            "Can I order a product if it's labeled as 'discontinued'?",
+            "Is there a way to purchase a product marked as 'discontinued'?",
+            "How can I request a 'discontinued' product?",
+            "Can I still get a product that's marked as 'discontinued'?",
+            "Is it possible to request a 'discontinued' product?",
+            "How do I order a product listed as 'discontinued'?",
+            "Can I still purchase a 'discontinued' product?",
+            "What if I want to buy a product that's marked as 'discontinued'?"
+
+          ],
+          "response": [
+            "Unfortunately, if a product is listed as 'discontinued,' it is no longer available for purchase. We recommend exploring alternative products on our website.",
+            "We regret to inform you that products labeled as 'discontinued' are no longer available for purchase. However, we encourage you to explore similar alternatives on our website to find a suitable replacement."
+
+          ]
+        }
+      ]
+        
+    },
+    {
+      "tag": "request_product_not_available_in_size",
+      "data": [
+        {
+          "query": [
+            "Can I request a product if it is not currently available in my size?",
+            "Is it possible to request a product that's not available in my size?",
+            "How can I request a product that's not available in my size?",
+            "What if I want to get a product that's not available in my size?",
+            "Can I still order a product if it's not available in my size?",
+            "Is there a way to request a product in a size that's currently unavailable?",
+            "Can I ask for a product to be made available in my size if it's currently out of stock?",
+            "How do I request a product that's not in my size?",
+            "Is it possible to order a product if it's not available in my size?",
+            "What steps should I take if I want to get a product that's not available in my size?",
+            "Can I still purchase a product if it's not available in my size?",
+            "How can I order a product that's currently unavailable in my size?",
+            "Is it feasible to request a product in a size that's not currently in stock?",
+            "What if I want to buy a product that's not available in my size?",
+            "How do I proceed if I want to purchase a product that's not in my size?",
+            "Can I request a product to be restocked in my size if it's currently unavailable?",
+            "Is there a way to get a product in a size that's currently out of stock?",
+            "Can I ask for a product to be made available in my size if it's currently not offered?",
+            "How can I order a product in a size that's not currently available?",
+            "What if I want to get a product in a size that's not available?",
+            "Can I still order a product if it's not available in my preferred size?",
+            "How do I request a product in a size that's currently out of stock?",
+            "Is it possible to purchase a product if it's not available in my size?",
+            "What steps should I take to buy a product that's not available in my size?",
+            "Can I still get a product if it's not available in my size?",
+            "How can I order a product that's not available in my size?",
+            "Is it possible to request a product in a size that's currently unavailable?",
+            "Can I ask for a product to be made available in my size if it's currently out of stock?",
+            "How do I order a product that's not in my size?",
+            "What if I want to purchase a product that's not available in my size?"
+
+          ],
+          "response": [
+            "If a product is not available in your size, it may be temporarily out of stock. Please check back later or sign up for size notifications.",
+            "If a product is unavailable in your size, you can check back later or sign up for size notifications to stay informed about restocks. Unfortunately, we're unable to fulfill orders for sizes that are currently out of stock."
+            
+
+          ]
+        }
+      ]
+        
+    },
+    {
+      "tag": "order_coming_soon_available_for_pre_order",
+      "data": [
+        {
+          "query": [
+            "Can I order a product if it is listed as 'coming soon' but available for pre-order?",
+            "Is it possible to pre-order a product labeled as 'coming soon'?",
+            "How can I pre-order a product that's marked as 'coming soon'?",
+            "What if I want to place a pre-order for a product marked as 'coming soon'?",
+            "Can I reserve a product that's listed as 'coming soon'?",
+            "Is it permissible to place a pre-order for a product marked as 'coming soon'?",
+            "Can I reserve a product that's labeled as 'coming soon' for pre-order?",
+            "How do I pre-order a product that's marked as 'coming soon'?",
+            "What steps should I take to place a pre-order for a product listed as 'coming soon'?",
+            "Is there a way to pre-order a product that's listed as 'coming soon'?",
+            "Can I secure a product that's marked as 'coming soon' by pre-ordering?",
+            "How can I reserve a product that's marked as 'coming soon' for pre-order?",
+            "Is it feasible to pre-order a product labeled as 'coming soon'?",
+            "What if I want to pre-order a product that's marked as 'coming soon'?",
+            "How can I reserve a product listed as 'coming soon' for pre-order?",
+            "Can I pre-order a product if it's listed as 'coming soon'?",
+            "Is it possible to place a pre-order for a product labeled as 'coming soon'?",
+            "What are the options for pre-ordering a product that's marked as 'coming soon'?",
+            "How do I proceed with pre-ordering a product that's labeled as 'coming soon'?",
+            "Can I pre-order a product that's listed as 'coming soon' to ensure I get it?",
+            "What if I want to reserve a product that's listed as 'coming soon' for pre-order?",
+            "Is there a way to secure a product that's marked as 'coming soon' by pre-ordering?",
+            "How can I pre-order a product that's not yet available but listed as 'coming soon'?",
+            "Can I place a pre-order for a product labeled as 'coming soon' to reserve it?",
+            "What steps should I take if I want to pre-order a product listed as 'coming soon'?",
+            "Is it permissible to pre-order a product marked as 'coming soon' to ensure availability?",
+            "Can I reserve a product for pre-order if it's listed as 'coming soon'?",
+            "How do I secure a product marked as 'coming soon' by pre-ordering?",
+            "What if I want to pre-order a product that's marked as 'coming soon'?",
+            "Can I pre-order a product if it's listed as 'coming soon'?"
+
+
+          ],
+          "response": [
+            "If a product is listed as 'coming soon' and available for pre-order, you can place an order to secure your item before it becomes available.",
+            "Certainly, if a product is labeled as 'coming soon' and available for pre-order, you have the option to reserve your item in advance. By placing a pre-order, you can secure the product before its official release, ensuring you receive it as soon as it becomes available. Simply add the item to your cart and proceed with the pre-order process to reserve your item today."
+
+          ]
+        }
+      ]
+        
+    },
+    {
+      "tag": "request_custom_or_personalized_product",
+      "data": [
+        {
+          "query": [
+            "Can I request a custom order or personalized product?",
+            "Is it possible to request a custom order or personalized product?",
+            "How can I order a custom or personalized product?",
+            "What if I want to personalize a product?",
+            "Can I customize a product according to my preferences?",
+            "Is there an option to request a product with custom features or personalization?",
+            "Can I order a product with customized specifications or personalized details?",
+            "How do I go about requesting a custom-made or personalized product?",
+            "What if I want to have a product tailored to my specific needs or preferences?",
+            "Is it feasible to customize a product according to my unique requirements?",
+            "Can products be modified or personalized based on individual preferences?",
+            "How can I order a product with custom features or personalized elements?",
+            "Is it possible to have a product tailored to my specific requirements or preferences?",
+            "What if I want to personalize a product according to my preferences?",
+            "Can I request modifications to a product to suit my individual needs?",
+            "How do I go about customizing a product to meet my specific requirements?",
+            "Is there an option to tailor a product to my liking or preferences?",
+            "What steps should I take if I want to personalize a product?",
+            "Can I customize a product to reflect my personal style or preferences?",
+            "Is there a way to request alterations or personalization for a product?",
+            "How can I order a product with custom features tailored to my preferences?",
+            "Can I request special modifications or personalization for a product?",
+            "What if I want to have a product customized according to my specific requirements?",
+            "Can products be personalized or modified based on individual preferences?",
+            "How do I order a product with custom specifications or personalized details?",
+            "Is it feasible to customize a product according to my unique requirements?",
+            "Can products be modified or personalized based on individual preferences?",
+            "How can I order a product with custom features or personalized elements?",
+            "Is it possible to have a product tailored to my specific needs or preferences?",
+            "What if I want to personalize a product according to my preferences?"
+
+          ],
+          "response": [
+            "We do not currently offer custom orders or personalized products. Please explore the available products on our website.",
+            "Unfortunately, we do not currently offer custom orders or personalized products. While we understand your desire for tailored items, we encourage you to explore our existing selection, where you may find products that align with your preferences and needs."
+          ]
+        }
+      ]
+        
+    },
+    {
+      "tag": "request_coming_soon_not_available_for_pre_order",
+      "data": [
+        {
+          "query": [
+            "Can I request a product if it is listed as 'coming soon' but not available for pre-order?",
+            "Is it possible to request a product marked as 'coming soon' but not available for pre-order?",
+            "How can I request a product that's labeled as 'coming soon' but not available for pre-order?",
+            "What if I want to request a product that's coming soon but not available for pre-order?",
+            "Can I make a request for a product that's coming soon but not available for pre-order?",
+            "Is it feasible to request a product labeled as 'coming soon' if it's not open for pre-order?",
+            "Can I ask for a product that's marked as 'coming soon' but not yet open for pre-orders?",
+            "How do I go about requesting a product that's labeled as 'coming soon' but not open for pre-orders?",
+            "What if I want to make a request for a product listed as 'coming soon' but not available for pre-order?",
+            "Is there a way to request a product that's labeled as 'coming soon' but not open for pre-orders?",
+            "Can I make a request for a product labeled as 'coming soon' but not available for pre-order?",
+            "How can I ask for a product marked as 'coming soon' but not available for pre-order?",
+            "What steps should I take to request a product that's labeled as 'coming soon' but not available for pre-order?",
+            "Is it possible to make a request for a product that's labeled as 'coming soon' but not open for pre-orders?",
+            "How can I request a product that's listed as 'coming soon' but not available for pre-order?",
+            "Can I request a product if it's marked as 'coming soon' but not yet open for pre-orders?",
+            "What if I want to request a product that's labeled as 'coming soon' but not yet open for pre-orders?",
+            "Is there a procedure for requesting a product labeled as 'coming soon' but not open for pre-orders?",
+            "How do I proceed if I want to make a request for a product listed as 'coming soon' but not available for pre-order?",
+            "Can I request a product that's marked as 'coming soon' but not yet available for pre-order?",
+            "What if I want to make a request for a product labeled as 'coming soon' but not available for pre-order?",
+            "Is there a way to request a product that's labeled as 'coming soon' but not yet open for pre-orders?",
+            "How can I ask for a product marked as 'coming soon' but not available for pre-order?",
+            "What steps should I take to request a product that's labeled as 'coming soon' but not available for pre-order?",
+            "Is it possible to make a request for a product that's labeled as 'coming soon' but not open for pre-orders?",
+            "How can I request a product that's listed as 'coming soon' but not available for pre-order?",
+            "Can I request a product if it's marked as 'coming soon' but not yet open for pre-orders?",
+            "What if I want to request a product that's labeled as 'coming soon' but not yet open for pre-orders?",
+            "Is there a procedure for requesting a product labeled as 'coming soon' but not open for pre-orders?",
+            "How do I proceed if I want to make a request for a product listed as 'coming soon' but not available for pre-order?"
+
+          ],
+          "response": [
+            "If a product is listed as 'coming soon' but not available for pre-order, you will need to wait until it is officially released and becomes available for purchase.",
+            "Regrettably, if a product is labeled as 'coming soon' but isn't open for pre-order, we currently don't have a mechanism for early requests. You'll have to wait until it's released for purchase.",
+            "At this time, we don't facilitate requests for products labeled as 'coming soon' but not available for pre-order. Please stay tuned for updates on its availability.",
+            "Currently, we don't accept requests for products labeled as 'coming soon' if they're not open for pre-order. Please keep an eye on our website for when it becomes available.",
+            "Unfortunately, we're unable to process requests for products labeled as 'coming soon' if they're not available for pre-order. You'll need to wait until it's officially released.",
+            "If a product is marked as 'coming soon' but not open for pre-order, we're unable to accommodate requests for it at the moment. Please check back once it's released for purchase."
+
+          ]
+        }
+      ]
+        
+    },
+    {
+      "tag": "order_on_hold_product",
+      "data": [
+        {
+          "query": [
+            "Can I order a product if it is listed as 'on hold'?",
+            "Is it possible to order a product marked as 'on hold'?",
+            "How can I order a product labeled as 'on hold'?",
+            "What if I want to order a product that's on hold?",
+            "Can I still place an order for a product that's on hold?",
+            "Is it feasible to purchase a product labeled as 'on hold'?",
+            "Can I place an order for a product listed as 'on hold'?",
+            "How do I go about ordering a product that's labeled as 'on hold'?",
+            "What if I want to purchase a product that's currently on hold?",
+            "Is there a way to buy a product that's marked as 'on hold'?",
+            "Can I still place an order for a product labeled as 'on hold'?",
+            "How can I order a product that's currently marked as 'on hold'?",
+            "What steps should I take to purchase a product that's listed as 'on hold'?",
+            "Is it possible to buy a product labeled as 'on hold'?",
+            "How do I proceed if I want to order a product that's currently on hold?",
+            "Can I purchase a product if it's listed as 'on hold'?",
+            "What if I want to place an order for a product that's labeled as 'on hold'?",
+            "How can I buy a product labeled as 'on hold'?",
+            "Is it feasible to order a product that's currently on hold?",
+            "Can I still purchase a product if it's listed as 'on hold'?",
+            "How do I proceed with ordering a product that's marked as 'on hold'?",
+            "Is there a way to place an order for a product that's currently on hold?",
+            "What if I want to buy a product that's currently marked as 'on hold'?",
+            "Can I order a product if it's labeled as 'on hold'?",
+            "How can I place an order for a product that's currently on hold?",
+            "Is it possible to purchase a product that's listed as 'on hold'?",
+            "Can I still order a product if it's marked as 'on hold'?",
+            "How do I proceed with placing an order for a product that's listed as 'on hold'?",
+            "Is there a way to buy a product labeled as 'on hold'?",
+            "What if I want to order a product that's listed as 'on hold'?"
+
+
+          ],
+          "response": [
+            "If a product is listed as 'on hold,' it is temporarily unavailable for purchase. Please check back later or sign up for notifications when it becomes available.",
+            "If a product is labeled as 'on hold,' it's currently unavailable for purchase. Please check back later for updates on availability.",
+            "Unfortunately, if a product is marked as 'on hold,' it's temporarily unavailable for purchase. Please revisit later for updates."
+        
+
+          ]
+        }
+      ]
+        
+    },
+    {
+      "tag": "return_without_original_receipt",
+      "data": [
+        {
+          "query": [
+            "Can I return a product if I no longer have the original receipt?",
+            "Is it possible to return a product without the original receipt?",
+            "How about returning a product without the original receipt?",
+            "If I don't have the original receipt, can I still return a product?",
+            "What should I do if I want to return a product but don't have the original receipt?",
+            "What if I lose the original receipt, can I still return a product?",
+            "Is there a way to return a product if I misplaced the original receipt?",
+            "Can I return a product if I misplace the original receipt?",
+            "How can I return a product without the original receipt?",
+            "What if I can't find the original receipt, can I still initiate a return?",
+            "Is it acceptable to return a product without the original receipt?",
+            "How do I proceed with returning a product if I no longer have the original receipt?",
+            "What steps should I take if I want to return a product but can't find the original receipt?",
+            "Is it possible to initiate a return if I lose the original receipt?",
+            "How about returning a product if I accidentally discard the original receipt?",
+            "Can I still return a product if I misplace the original receipt?",
+            "What if I lose the original receipt, can I still request a return?",
+            "How can I proceed with returning a product if I no longer have the original receipt?",
+            "Is it acceptable to return a product if I don't have the original receipt?",
+            "Can I return a product without the original receipt?",
+            "What if I misplaced the original receipt, can I still return a product?",
+            "How do I proceed with returning a product if I lose the original receipt?",
+            "What steps should I take if I want to return a product but accidentally throw away the original receipt?",
+            "Is it possible to initiate a return if I can't find the original receipt?",
+            "How about returning a product if I lose the original receipt?",
+            "Can I still return a product if I accidentally discard the original receipt?",
+            "What if I can't find the original receipt, can I still return the product?",
+            "Is it acceptable to return a product without the original receipt?",
+            "Can I return a product without providing the original receipt?",
+            "How can I initiate a return if I no longer have the original receipt?"
+
+
+          ],
+          "response": [
+            "While a receipt is preferred for returns, we may be able to assist you without it. Please contact our customer support team for further guidance.",
+            "While having the original receipt is recommended for returns, we may be able to accommodate your return without it. Please reach out to our customer support team for assistance. We understand that situations arise, and we're here to help you through the return process, even if you've misplaced or discarded the original receipt. Contact us, and we'll do our best to provide you with the necessary guidance and support to facilitate your return smoothly."
+
+          ]
+        }
+      ]
+        
+    },
+    {
+      "tag": "request_limited_edition_restocked",
+      "data": [
+        {
+          "query": [
+            "Can I request a product that is listed as 'limited edition' to be restocked?",
+            "Is it possible to request a restock for a product labeled as 'limited edition'?",
+            "How can I request a restock for a limited edition product?",
+            "What if I want to request a restock for a product that's listed as 'limited edition'?",
+            "Can I make a request for a limited edition product to be restocked?",
+            "Is there a possibility to request a restock for a product labeled as 'limited edition' after it's sold out?",
+            "If a product is marked as 'limited edition' and sold out, can I still request a restock?",
+            "How do I go about requesting a restock for a limited edition product?",
+            "What if I want to request a limited edition product to be restocked after it's sold out?",
+            "Is it possible to request a restock for a product listed as 'limited edition'?",
+            "How can I request a restock for a limited edition item that's no longer available?",
+            "What steps should I take if I want to request a restock for a product labeled as 'limited edition'?",
+            "Is there a procedure for requesting a restock for a limited edition product?",
+            "Can I request a restock for a limited edition product that's no longer available?",
+            "How about requesting a restock for a product that's labeled as 'limited edition'?",
+            "Is it feasible to request a limited edition product to be restocked?",
+            "Can limited edition products be restocked upon request?",
+            "What if I want to request a restock for a limited edition product?",
+            "How do I proceed with requesting a restock for a product labeled as 'limited edition'?",
+            "Is there a way to request a limited edition product to be restocked?",
+            "Can I still request a restock for a limited edition product?",
+            "What if I want to request a restock for a product that's listed as 'limited edition'?",
+            "How can I request a limited edition product to be restocked after it's sold out?",
+            "Is it possible to request a restock for a limited edition item that's no longer available?",
+            "How about requesting a restock for a product labeled as 'limited edition'?",
+            "Can I request a restock for a limited edition product that's no longer available?",
+            "What if I want to request a restock for a product labeled as 'limited edition'?",
+            "How do I proceed with requesting a restock for a limited edition product?",
+            "Is there a way to request a limited edition product to be restocked?",
+            "If a product is labeled as 'limited edition' and sells out, can I request a restock?"
+
+          ],
+          "response": [
+            "Once a limited edition product is sold out, it may not be restocked. Limited edition items are available for a limited time only, so we recommend purchasing them while they are available.",
+            "While it's understandable that you may wish for a restock of a limited edition product once it's sold out, restocking may not always be possible. Limited edition items are precisely that - limited. Therefore, we encourage customers to act swiftly and purchase them while they are available."
+
+          ]
+        }
+      ]
+        
+    },
+    {
+      "tag": "return_clearance_or_final_sale_item",
+      "data": [
+        {
+          "query": [
+            "Can I return a product if it was a clearance or final sale item?",
+            "Is it possible to return a product if it's a clearance or final sale item?",
+            "How about returning a product if it's marked as a clearance or final sale item?",
+            "If I purchased a clearance or final sale item, can I still return it?",
+            "What's the return policy for clearance or final sale items?",
+            "Is it acceptable to return a product if it was labeled as a clearance or final sale item?",
+            "What's the procedure for returning a product marked as a clearance or final sale item?",
+            "Can I initiate a return for a product labeled as a clearance or final sale item?",
+            "How do I go about returning a product if it's listed as a clearance or final sale item?",
+            "What if I want to return a product that I bought as a clearance or final sale item?",
+            "Is there a policy for returning products labeled as clearance or final sale items?",
+            "How can I proceed with returning a product if it's marked as a clearance or final sale item?",
+            "Can I request a return for a product labeled as a clearance or final sale item?",
+            "What steps should I take if I want to return a product that's listed as a clearance or final sale item?",
+            "Is it possible to return a product if it's categorized as a clearance or final sale item?",
+            "How do I request a return for a product if it's identified as a clearance or final sale item?",
+            "Can clearance or final sale items be returned?",
+            "Is it feasible to return a product if it's designated as a clearance or final sale item?",
+            "Can I return a product that I purchased as a clearance or final sale item?",
+            "What if I want to return a product that's identified as a clearance or final sale item?",
+            "How about requesting a return for a product if it's marked as a clearance or final sale item?",
+            "Can I initiate a return for a product labeled as a clearance or final sale item?",
+            "What's the return policy for products marked as clearance or final sale items?",
+            "Is there a possibility of returning a product if it's labeled as a clearance or final sale item?",
+            "How do I go about returning a product if it's listed as a clearance or final sale item?",
+            "Can I request a return for a product categorized as a clearance or final sale item?",
+            "What steps should I take if I want to return a product that's listed as a clearance or final sale item?",
+            "How do I request a return for a product if it's identified as a clearance or final sale item?",
+            "Can clearance or final sale items be returned for a refund?",
+            "Is it feasible to initiate a return for a product labeled as a clearance or final sale item?"
+
+          ],
+          "response": [
+            "Clearance or final sale items are typically non-returnable and non-refundable. Please review the product description or contact our customer support team for more information.",
+            "For products labeled as clearance or final sale items, returns are typically not permitted due to their non-returnable and non-refundable nature. We advise reviewing the product description or contacting our customer support for further guidance on your specific situation."
+
+          ]
+        }
+      ]
+        
+    },
+    {
+      "tag": "return_bundle_or_set_purchase",
+      "data": [
+        {
+          "query": [
+            "Can I return a product if it was purchased as part of a bundle or set?",
+            "Is it possible to return a product bought as part of a bundle or set?",
+            "How about returning a product included in a bundle or set?",
+            "What if I want to return a product that's part of a bundle or set?",
+            "Can I return individual items from a bundle or set?",
+            "What's the policy for returning a product if it came in a bundle or set?",
+            "Is it acceptable to return a product if it's part of a bundle or set?",
+            "How do I proceed with returning a product included in a bundle or set?",
+            "Can I initiate a return for a product that's part of a bundle or set?",
+            "What if I want to return an item from a bundle or set purchase?",
+            "Is there a way to return a product purchased as part of a bundle or set?",
+            "How about returning a product if it's part of a bundled purchase?",
+            "Can I return a product bought as part of a package deal?",
+            "What's the process for returning items that were bundled together?",
+            "Is it possible to return individual items from a bundled purchase?",
+            "Can I request a return for a product that came in a bundle?",
+            "How do I go about returning a product included in a bundled purchase?",
+            "What if I want to return a product that was part of a bundled deal?",
+            "Is it acceptable to return items purchased as part of a bundle or package?",
+            "How can I request a return for an item that's part of a bundled purchase?",
+            "What's the policy for returning products from bundled purchases?",
+            "Can I return a product if I bought it as part of a bundle or package deal?",
+            "How about returning individual items from a package deal?",
+            "Can I initiate a return for a product purchased as part of a bundle or package?",
+            "What if I want to return an item that's bundled with others?",
+            "Is there a way to return items bought as part of a bundled purchase?",
+            "How do I proceed with returning products that were bundled together?",
+            "Can I return a product that's included in a bundled offer?",
+            "What's the process for returning items included in a bundled purchase?",
+            "Is it possible to return individual items if I purchased them as part of a bundle?"
+
+
+          ],
+          "response": [
+            "If a product was purchased as part of a bundle or set, the return policy may vary. Please refer to the specific terms and conditions or contact our customer support team for further guidance.",
+            "The return policy for products included in bundles or sets can vary. Please review the specific terms and conditions or reach out to our customer support team for further assistance. It's important to understand the specific guidelines for returning items purchased as part of bundles or sets, as they may differ from standard return policies. Checking the terms and conditions or contacting customer support will provide clarity on the appropriate procedures for initiating a return for bundled products."
+
+          ]
+        }
+      ]
+        
+    },
+    {
+      "tag": "return_purchased_with_store_credit",
+      "data": [
+        {
+          "query": [
+            "Can I return a product if it was purchased with store credit?",
+            "Is it possible to return a product bought with store credit?",
+            "How do I return a product that I bought with store credit?",
+            "What's the process for returning a product purchased with store credit?",
+            "Can I get a refund for a product I purchased using store credit?",
+            "If I used store credit to buy a product, can I still return it?",
+            "What's the procedure for returning an item bought with store credit?",
+            "Is there a way to return a product that I purchased using store credit?",
+            "Can I get a refund if I bought a product with store credit?",
+            "How do I initiate a return for a product purchased with store credit?",
+            "What's the policy for returning items bought with store credit?",
+            "Is it possible to return a product if it was paid for with store credit?",
+            "If I used store credit to buy an item, can I still request a refund?",
+            "Can I return a product bought with store credit for a refund?",
+            "What if I want to return an item that I purchased with store credit?",
+            "How can I get a refund for a product I bought with store credit?",
+            "Is there a process for returning products bought with store credit?",
+            "Can I receive a refund if I used store credit to make the purchase?",
+            "What happens if I return a product purchased with store credit?",
+            "How do I return a product that I paid for using store credit?",
+            "Is it feasible to return a product if it was bought with store credit?",
+            "Can I initiate a return for an item that I bought using store credit?",
+            "What's the policy for returning items if I used store credit for the purchase?",
+            "How about requesting a refund for a product purchased with store credit?",
+            "Can I return a product if it's been paid for with store credit?",
+            "If I used store credit to buy a product, can I still return it for a refund?",
+            "What if I want to return a product that was purchased using store credit?",
+            "Is there a way to get a refund for items purchased with store credit?",
+            "How do I go about returning a product that I bought with store credit?",
+            "If I make a purchase using store credit, can I still return the item for a refund?"
+
+
+          ],
+          "response": [
+            "Yes, you can return a product purchased with store credit. The refund will be issued in the form of store credit, which you can use for future purchases.",
+            "Returning an item bought with store credit is part of our standard procedure. Upon return, the refunded amount will be provided as store credit, accessible for future transactions."
+
+          ]
+        }
+      ]
+        
+    },
+    {
+      "tag": "return_purchased_with_promotional_gift_card",
+      "data": [
+        {
+          "query": [
+            "Can I return a product if it was purchased with a promotional gift card?",
+            "Is it possible to return a product bought with a promotional gift card?",
+            "How do I return a product that I bought with a promotional gift card?",
+            "What's the process for returning a product purchased with a promotional gift card?",
+            "Can I get a refund for a product I purchased using a promotional gift card?",
+            "If I used a promotional gift card to buy a product, can I still return it?",
+            "What's the procedure for returning an item bought with a promotional gift card?",
+            "Is there a way to return a product that I purchased using a promotional gift card?",
+            "Can I get a refund if I bought a product with a promotional gift card?",
+            "How do I initiate a return for a product purchased with a promotional gift card?",
+            "What's the policy for returning items bought with a promotional gift card?",
+            "Is it possible to return a product if it was paid for with a promotional gift card?",
+            "If I used a promotional gift card to buy an item, can I still request a refund?",
+            "Can I return a product bought with a promotional gift card for a refund?",
+            "What if I want to return an item that I purchased with a promotional gift card?",
+            "How can I get a refund for a product I bought with a promotional gift card?",
+            "Is there a process for returning products bought with a promotional gift card?",
+            "Can I receive a refund if I used a promotional gift card to make the purchase?",
+            "What happens if I return a product purchased with a promotional gift card?",
+            "How do I return a product that I paid for using a promotional gift card?",
+            "If I make a purchase using a promotional gift card, can I still return the item for a refund?",
+            "What if I want to return a product that was purchased using a promotional gift card?",
+            "Is there a way to get a refund for items purchased with a promotional gift card?",
+            "How do I go about returning a product that I bought with a promotional gift card?",
+            "If I used a promotional gift card to buy a product, can I still return it for a refund?",
+            "What if I want to return a product that I purchased with a promotional gift card?",
+            "Is there a way to initiate a return for an item bought with a promotional gift card?",
+            "Can I return a product if it's been paid for with a promotional gift card?",
+            "If I used a promotional gift card to buy a product, can I still request a refund?"
+
+          ],
+          "response": [
+            "Yes, you can return a product purchased with a promotional gift card. The refund will be issued in the form of store credit or a new gift card.",
+            "Yes, products purchased with a promotional gift card are eligible for return, and you'll receive the refunded amount as either store credit or a new gift card, providing flexibility for future purchases.",
+            "Indeed, returning items bought with a promotional gift card follows our standard procedure, ensuring that you receive the refunded amount as either store credit or a new gift card, catering to your convenience."
+
+
+          ]
+        }
+      ]
+        
+    },
+    {
+      "tag": "request_not_available_in_preferred_color",
+      "data": [
+        {
+          "query": [
+            "Can I request a product if it is not currently available in my preferred color?",
+            "Is there a way to request a product that's not available in my preferred color?",
+            "How can I ask for a product that's not available in my preferred color?",
+            "What if I want to request a product that's currently not available in my preferred color?",
+            "Can I make a request for a product that's not available in my preferred color?",
+            "Is it possible to ask for a product in a different color if it's not currently available?",
+            "What if the product I want is not in the color I prefer? Can I still request it?",
+            "How do I request a product that's not in my preferred color?",
+            "What's the process for requesting a product that's currently not available in the color I want?",
+            "Can I ask for a product in a different color if it's not in my preferred color right now?",
+            "Is there a way to request a product that's out of stock in my preferred color?",
+            "How can I request a product that's unavailable in the color I want?",
+            "What if I want to request a product in a color that's not currently available?",
+            "Is it feasible to request a product if it's not available in my preferred color?",
+            "Can I make a request for a product that's not currently available in my preferred color?",
+            "How do I go about requesting a product that's not offered in my preferred color?",
+            "What if I want to request a product in a color that's not currently in stock?",
+            "Is there a procedure for requesting a product that's not in the color I prefer?",
+            "How can I ask for a product in a different color if it's not currently available?",
+            "What's the process for requesting a product that's currently unavailable in my preferred color?",
+            "Can I request a product that's out of stock in the color I want?",
+            "How do I request a product that's not in the color I prefer right now?",
+            "Is it possible to ask for a product that's not available in my preferred color at the moment?",
+            "What if I want to request a product in a color that's not currently in stock?",
+            "Can I make a request for a product that's not offered in my preferred color right now?",
+            "How do I go about requesting a product that's currently not available in my preferred color?",
+            "What if I want to request a product in a different color that's not currently available?",
+            "Is there a procedure for requesting a product that's not available in the color I prefer?",
+            "How can I ask for a product in a different color if it's not currently available?",
+            "What's the process for requesting a product that's currently unavailable in my preferred color?"
+
+          ],
+          "response": [
+            "If a product is not available in your preferred color, it may be temporarily out of stock. Please check back later or sign up for color notifications.",
+            "If the product isn't available in your preferred color, it might be temporarily out of stock. Stay informed by checking back later or subscribing for color updates.",
+            "If the product is currently not offered in your preferred color, it could be due to limited availability. Keep an eye out for restocks or consider exploring alternative color options."
+
+          ]
+        }
+      ]
+        
+    },
+    {
+      "tag": "return_purchased_during_promotional_event",
+      "data": [
+        {
+          "query": [
+            "Can I return a product if it was purchased during a promotional event?",
+            "Is it possible to return a product bought during a promotional event?",
+            "How do I return a product that I bought during a promotional event?",
+            "What's the process for returning a product purchased during a promotional event?",
+            "Can I get a refund for a product I purchased during a promotional event?",
+            "If I bought something during a promotional event, can I still return it?",
+            "Is it acceptable to return an item purchased during a promotion?",
+            "How can I return a product bought during a promotional sale?",
+            "What's the policy for returning items purchased during promotional events?",
+            "Can I request a refund for a product bought during a promotion?",
+            "Is there a way to return a product purchased during a promotional campaign?",
+            "How do I proceed with returning an item purchased during a promotional offer?",
+            "What if I want to return a product that I bought during a sales event?",
+            "Can I return an item if it was purchased during a special promotion?",
+            "How can I initiate a return for a product bought during a promotional period?",
+            "What's the procedure for returning items purchased during a promotional sale?",
+            "Can I get a refund for a product purchased during a discount event?",
+            "Is it possible to return an item bought during a promotional campaign?",
+            "How do I go about returning a product that I purchased during a promotional deal?",
+            "Can I return something if I bought it during a promotional offer?",
+            "What if I want to return a product that was purchased during a promotional sale?",
+            "How can I request a refund for an item bought during a special promotion?",
+            "Is there a process for returning items bought during a promotional discount?",
+            "Can I return a product purchased during a promotional event for a refund?",
+            "What if I want to return an item that I purchased during a sales promotion?",
+            "How do I request a refund for a product bought during a discount campaign?",
+            "Is it possible to return an item if it was purchased during a promotional period?",
+            "Can I return a product bought during a promotional offer for a refund?",
+            "How can I initiate a return for an item purchased during a promotional discount?",
+            "What's the procedure for returning items purchased during a promotional event for a refund?"
+
+          ],
+          "response": [
+            "Yes, you can return a product purchased during a promotional event. The refund will be processed based on the amount paid after any applicable discounts.",
+            "If you purchased an item during a promotional event and wish to return it, you're in luck! Items bought during promotional events are eligible for return, and you'll receive a refund based on the discounted price paid.",
+            "Absolutely, products bought during promotional events can be returned. However, keep in mind that the refund process considers the discounted price you paid during the promotion."
+
+
+          ]
+        }
+      ]
+        
+    }
+  ]
+}
+  
+  
+  
+  
+  
+  
